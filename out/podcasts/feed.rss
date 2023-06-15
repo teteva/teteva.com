@@ -22,7 +22,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-	<itunes:summary>podcast&#039;s site by Vadim</itunes:summary>
+	<itunes:summary>podcast&#039;s site by Teteva</itunes:summary>
 	<itunes:author>Teteva</itunes:author>
 	<itunes:explicit>yes</itunes:explicit>
 	<itunes:image href="https://media.teteva.com/images/feed.jpg" />
