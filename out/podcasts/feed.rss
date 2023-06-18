@@ -14,34 +14,36 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 <channel>
 	<title>Експлікація. Війна, Україна, світ.</title>
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
-	<link>https://teteva.com</link>
+	<link>https://teteva.com/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Thu, 15 Jun 2023 16:21:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 18 Jun 2023 12:19:57 +0000</lastBuildDate>
 	<language>uk</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-	<itunes:summary>podcast&#039;s site by Teteva</itunes:summary>
-	<itunes:author>Teteva</itunes:author>
+	<itunes:summary>podcast&#039;s site by &#039;Teteva &amp; Тетева&#039;</itunes:summary>
+	<itunes:author>Teteva &amp; Тетева</itunes:author>
 	<itunes:explicit>yes</itunes:explicit>
 	<itunes:image href="https://media.teteva.com/images/feed.jpg" />
 	<itunes:type>episodic</itunes:type>
 	<itunes:owner>
-		<itunes:name>Teteva</itunes:name>
+		<itunes:name>Teteva &amp; Тетева</itunes:name>
 		<itunes:email>aaron@teteva.com</itunes:email>
 	</itunes:owner>
 	<copyright>teteva.com All rights reserved</copyright>
 	<podcast:license>teteva.com All rights reserved</podcast:license>
 	<podcast:medium>podcast</podcast:medium>
-	<itunes:subtitle>podcast&#039;s site by Teteva</itunes:subtitle>
+	<itunes:subtitle>podcast&#039;s site by &#039;Teteva &amp; Тетева&#039;</itunes:subtitle>
 	<image>
 		<title>Експлікація. Війна, Україна, світ.</title>
 		<url>https://media.teteva.com/images/feed.jpg</url>
 		<link>https://teteva.com</link>
 	</image>
-	<itunes:category text="News" />
-	<googleplay:category text="News &amp; Politics"/>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals" />
+	</itunes:category>
+	<googleplay:category text="Society &amp; Culture"/>
 	<itunes:category text="News">
 		<itunes:category text="News Commentary" />
 	</itunes:category>
@@ -54,10 +56,29 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:frequency>daily</rawvoice:frequency>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 	<item>
+		<title>Полк Каліновського в Бєларусі. Кінець режиму?</title>
+		<link>https://teteva.com/podcasts/141/</link>
+		<pubDate>Sun, 18 Jun 2023 12:19:25 +0000</pubDate>
+		<comments>https://teteva.com/podcasts/141/#respond</comments>
+		<wfw:commentRss>https://teteva.com/podcasts/141/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>Два можливих сценарія розвитку подій.</description>
+		<content:encoded><![CDATA[<p>Кремль робить вигляд, що нічого не сталося. І тоді Полк Каліновського розгортає свою діяльність в Бєларусі. Це озброєні і досвідчені люди. Або…</p>
+]]></content:encoded>
+		<enclosure url="https://media.teteva.com/mp3/141.mp3" length="19706952" type="audio/mpeg" />
+			<itunes:image href="https://media.teteva.com/images/141.png" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>141</itunes:episode>
+		<podcast:episode>141</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>20:32</itunes:duration>
+	</item>
+	<item>
 		<title>Провал і тріумф спецслужб. План Путіна.</title>
 		<link>https://teteva.com/podcasts/139/</link>
 		<pubDate>Sun, 30 Apr 2023 09:00:06 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/139.mp3</guid>
 		<comments>https://teteva.com/podcasts/139/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/139/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -78,7 +99,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Аналіз і прогноз.</title>
 		<link>https://teteva.com/podcasts/138/</link>
 		<pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/138.mp3</guid>
 		<comments>https://teteva.com/podcasts/138/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/138/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -99,7 +119,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Огляд новин.</title>
 		<link>https://teteva.com/podcasts/137/</link>
 		<pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/137.mp3</guid>
 		<comments>https://teteva.com/podcasts/137/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/137/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -120,7 +139,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Прибрати Путіна. Місія заради миру.</title>
 		<link>https://teteva.com/podcasts/136/</link>
 		<pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/136.mp3</guid>
 		<comments>https://teteva.com/podcasts/136/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/136/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -141,7 +159,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Кримський міст. Версії.</title>
 		<link>https://teteva.com/podcasts/135/</link>
 		<pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/135.mp3</guid>
 		<comments>https://teteva.com/podcasts/135/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/135/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -162,7 +179,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Кримський міст. Вступ.</title>
 		<link>https://teteva.com/podcasts/134/</link>
 		<pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/134.mp3</guid>
 		<comments>https://teteva.com/podcasts/134/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/134/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -183,7 +199,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Геостратегія по аматорськи.</title>
 		<link>https://teteva.com/podcasts/133/</link>
 		<pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/133.mp3</guid>
 		<comments>https://teteva.com/podcasts/133/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/133/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -204,7 +219,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Бліц-криг.</title>
 		<link>https://teteva.com/podcasts/132/</link>
 		<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/132.mp3</guid>
 		<comments>https://teteva.com/podcasts/132/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/132/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -225,7 +239,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Чмошнік. Частина перша.</title>
 		<link>https://teteva.com/podcasts/131/</link>
 		<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/131.mp3</guid>
 		<comments>https://teteva.com/podcasts/131/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/131/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -246,14 +259,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Колаборанти.</title>
 		<link>https://teteva.com/podcasts/130/</link>
 		<pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/130.mp3</guid>
-		<comments>https://teteva.com/podcasts/130/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/130/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<category><![CDATA[Uncategorized]]></category>
 		<description>Колаборанти в Ізюмі вже підняли голову.</description>
-		<content:encoded><![CDATA[<p>Чому тьощин зять, який з незрозумілої причини очолює Верховну Раду, по суті очолює Раду &#8220;Ждунів&#8221;. Проблема колаборантів вирішується простими змінами до Кодексу про адміністративні правопорушення. Описати діяльність, яка має ознаки спрівпраці з ворогом, не являється проблемою з точки зору юридичної техніки. Проблемою є те, що комусь це не потрібно.</p>
-]]></content:encoded>
 		<enclosure url="https://media.teteva.com/mp3/130.mp3" length="11953811" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/130.jpg" />
 		<itunes:season>1</itunes:season>
@@ -267,7 +273,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Сенсація. Майже. Козак.</title>
 		<link>https://teteva.com/podcasts/129/</link>
 		<pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/129.mp3</guid>
 		<description>Свіжий погляд на статтю в Reuters про українську підкилимну групу.</description>
 		<enclosure url="https://media.teteva.com/mp3/129.mp3" length="1501904" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/129.jpg" />
@@ -282,7 +287,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Знову ні про що.</title>
 		<link>https://teteva.com/podcasts/128/</link>
 		<pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/128.mp3</guid>
 		<description>Цього разу коротко, як вступ до теми.</description>
 		<enclosure url="https://media.teteva.com/mp3/128.mp3" length="3636005" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/128.jpg" />
@@ -297,7 +301,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Радники Єрмака проти американців.</title>
 		<link>https://teteva.com/podcasts/127/</link>
 		<pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/127.mp3</guid>
 		<description>Секретна зброя Кремля?</description>
 		<enclosure url="https://media.teteva.com/mp3/127.mp3" length="12444495" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/127.jpg" />
@@ -312,7 +315,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Термінові мирні переговори з Москвою?</title>
 		<link>https://teteva.com/podcasts/126/</link>
 		<pubDate>Sun, 11 Sep 2022 22:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/126.mp3</guid>
 		<description>Що намагається донести нам Подоляк через дружнє ЗМІ?</description>
 		<enclosure url="https://media.teteva.com/mp3/126.mp3" length="8250274" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/126.jpg" />
@@ -327,7 +329,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Ні про що.</title>
 		<link>https://teteva.com/podcasts/125/</link>
 		<pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/125.mp3</guid>
 		<description>Ні про що, частина надцята. Хто винен - Путін чи режим.</description>
 		<enclosure url="https://media.teteva.com/mp3/125.mp3" length="10679034" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/125.jpg" />
@@ -342,7 +343,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Затяжна війна, частина друга. Прєємніки.</title>
 		<link>https://teteva.com/podcasts/123/</link>
 		<pubDate>Fri, 09 Sep 2022 06:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/123.mp3</guid>
 		<description>Прєємніки Путіна.</description>
 		<enclosure url="https://media.teteva.com/mp3/123.mp3" length="9624105" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/123.jpg" />
@@ -354,25 +354,9 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:duration>10:01</itunes:duration>
 	</item>
 	<item>
-		<title>Скажена імпотенція.</title>
-		<link>https://teteva.com/podcasts/124/</link>
-		<pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/124.mp3</guid>
-		<description>Скажений Путін. Легенда слєдоватєля, що видає себе за розвідника.</description>
-		<enclosure url="https://media.teteva.com/mp3/124.mp3" length="7007263" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/124.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>124</itunes:episode>
-		<podcast:episode>124</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>7:18</itunes:duration>
-	</item>
-	<item>
 		<title>Затяжна війна.</title>
 		<link>https://teteva.com/podcasts/122/</link>
 		<pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/122.mp3</guid>
 		<description>Чи загрожує Україні затяжна війна.</description>
 		<enclosure url="https://media.teteva.com/mp3/122.mp3" length="8271589" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/122.jpg" />
@@ -384,10 +368,23 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:duration>8:37</itunes:duration>
 	</item>
 	<item>
+		<title>Скажена імпотенція.</title>
+		<link>https://teteva.com/podcasts/124/</link>
+		<pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+		<description>Скажений Путін. Легенда слєдоватєля, що видає себе за розвідника.</description>
+		<enclosure url="https://media.teteva.com/mp3/124.mp3" length="7007263" type="audio/mpeg" />
+			<itunes:image href="https://media.teteva.com/images/124.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>124</itunes:episode>
+		<podcast:episode>124</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>7:18</itunes:duration>
+	</item>
+	<item>
 		<title>Ізображеніє звєря.</title>
 		<link>https://teteva.com/podcasts/121/</link>
 		<pubDate>Thu, 08 Sep 2022 04:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/121.mp3</guid>
 		<description>Імпотент в ролі терориста.</description>
 		<enclosure url="https://media.teteva.com/mp3/121.mp3" length="5204187" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/121.jpg" />
@@ -402,7 +399,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Чому Путін не визнає поразку.</title>
 		<link>https://teteva.com/podcasts/120/</link>
 		<pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/120.mp3</guid>
 		<description>Ердоган і Путін в одному човні.</description>
 		<enclosure url="https://media.teteva.com/mp3/120.mp3" length="8083926" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/120.jpg" />
@@ -417,7 +413,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Придністровя.</title>
 		<link>https://teteva.com/podcasts/119/</link>
 		<pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/119.mp3</guid>
 		<description>Колбасний склад - колбасний приз.
 September 7, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/119.mp3" length="8607211" type="audio/mpeg" />
@@ -433,7 +428,6 @@ September 7, 2022</description>
 		<title>Три Романа у стакана.</title>
 		<link>https://teteva.com/podcasts/118/</link>
 		<pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/118.mp3</guid>
 		<description>Роман, Роман і Романюк аналізують аналізи.
 September 5, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/118.mp3" length="5745027" type="audio/mpeg" />
@@ -449,7 +443,6 @@ September 5, 2022</description>
 		<title>Дугін і руській мір в Україні.</title>
 		<link>https://teteva.com/podcasts/117/</link>
 		<pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/117.mp3</guid>
 		<description>Руській мір Орестовича.
 August 22, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/117.mp3" length="10417392" type="audio/mpeg" />
@@ -465,7 +458,6 @@ August 22, 2022</description>
 		<title>Одна із загроз.</title>
 		<link>https://teteva.com/podcasts/116/</link>
 		<pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/116.mp3</guid>
 		<description>Хто замінить Президента у випадку чого.
 August 20, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/116.mp3" length="9245017" type="audio/mpeg" />
@@ -481,7 +473,6 @@ August 20, 2022</description>
 		<title>Тридцятирічні генерали.</title>
 		<link>https://teteva.com/podcasts/115/</link>
 		<pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/115.mp3</guid>
 		<description>Буданов про вторгнення та інше.
 August 19, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/115.mp3" length="5531032" type="audio/mpeg" />
@@ -497,7 +488,6 @@ August 19, 2022</description>
 		<title>Ердоган і Путін, Сирія проти України?</title>
 		<link>https://teteva.com/podcasts/114/</link>
 		<pubDate>Thu, 18 Aug 2022 04:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/114.mp3</guid>
 		<description>Що і кому продає Ердоган.
 August 18, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/114.mp3" length="6773624" type="audio/mpeg" />
@@ -513,7 +503,6 @@ August 18, 2022</description>
 		<title>Агентура ФСБ будує вільну Україну.</title>
 		<link>https://teteva.com/podcasts/113/</link>
 		<pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/113.mp3</guid>
 		<description>Чому так вільно дихає руський чєловєк в Українському інфопросторі.
 August 18, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/113.mp3" length="8042548" type="audio/mpeg" />
@@ -529,7 +518,6 @@ August 18, 2022</description>
 		<title>Медуза, як прес-секретар Путіна.</title>
 		<link>https://teteva.com/podcasts/112/</link>
 		<pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/112.mp3</guid>
 		<description>Опозиційна Медуза пояснює слова Чмошніка.
 August 17, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/112.mp3" length="11657895" type="audio/mpeg" />
@@ -545,7 +533,6 @@ August 17, 2022</description>
 		<title>Взяти Україну за три дні.</title>
 		<link>https://teteva.com/podcasts/111/</link>
 		<pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/111.mp3</guid>
 		<description>Якби ми це повідомили, тоді я б втрачав 7 мільярдів доларів на місяць.
 August 16, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/111.mp3" length="6994306" type="audio/mpeg" />
@@ -561,7 +548,6 @@ August 16, 2022</description>
 		<title>Кому закони не писані.</title>
 		<link>https://teteva.com/podcasts/110/</link>
 		<pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/110.mp3</guid>
 		<description>Росія і Китай перебувають в ООН незаконно.
 August 15, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/110.mp3" length="8945758" type="audio/mpeg" />
@@ -577,7 +563,6 @@ August 15, 2022</description>
 		<title>Точніше, ніж Хаймарс.</title>
 		<link>https://teteva.com/podcasts/109/</link>
 		<pubDate>Mon, 01 Aug 2022 03:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/109.mp3</guid>
 		<description>Були опитані понад 50 свідків.
 August 1, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/109.mp3" length="4239955" type="audio/mpeg" />
@@ -593,7 +578,6 @@ August 1, 2022</description>
 		<title>Ні про що.</title>
 		<link>https://teteva.com/podcasts/108/</link>
 		<pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/108.mp3</guid>
 		<description>Ні про що і трохи про Третю світову.
 August 1, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/108.mp3" length="9543022" type="audio/mpeg" />
@@ -609,7 +593,6 @@ August 1, 2022</description>
 		<title>Відсмоктати у Ердогана.</title>
 		<link>https://teteva.com/podcasts/107/</link>
 		<pubDate>Sun, 31 Jul 2022 03:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/107.mp3</guid>
 		<description>Херсон, як камень преткновения.
 July 31, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/107.mp3" length="7382599" type="audio/mpeg" />
@@ -625,7 +608,6 @@ July 31, 2022</description>
 		<title>Радники проти фашистів.</title>
 		<link>https://teteva.com/podcasts/106/</link>
 		<pubDate>Sat, 30 Jul 2022 04:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/106.mp3</guid>
 		<description>Подоляк.
 July 30, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/106.mp3" length="7686864" type="audio/mpeg" />
@@ -641,7 +623,6 @@ July 30, 2022</description>
 		<title>Чи можлива і що змінить ліквідація чи реформа ООН.</title>
 		<link>https://teteva.com/podcasts/105/</link>
 		<pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/105.mp3</guid>
 		<description>Реформа ООН.
 July 30, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/105.mp3" length="5433647" type="audio/mpeg" />
@@ -657,7 +638,6 @@ July 30, 2022</description>
 		<title>Здача Чорнобиля, як місток до Києва.</title>
 		<link>https://teteva.com/podcasts/103/</link>
 		<pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/103.mp3</guid>
 		<description>Росія змогла захопити Чорнобиль не випадково.
 July 29, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/103.mp3" length="2666757" type="audio/mpeg" />
@@ -673,7 +653,6 @@ July 29, 2022</description>
 		<title>Два слова по Херсону</title>
 		<link>https://teteva.com/podcasts/102/</link>
 		<pubDate>Thu, 28 Jul 2022 04:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/102.mp3</guid>
 		<description>Очевидні речі про рішення рашистів по Херсону.
 July 28, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/102.mp3" length="2873647" type="audio/mpeg" />
@@ -689,7 +668,6 @@ July 28, 2022</description>
 		<title>Психопатія Путіна</title>
 		<link>https://teteva.com/podcasts/101/</link>
 		<pubDate>Thu, 28 Jul 2022 03:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/101.mp3</guid>
 		<description>Про публікацію професора, який прагне хайпу.
 July 28, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/101.mp3" length="3128184" type="audio/mpeg" />
@@ -705,7 +683,6 @@ July 28, 2022</description>
 		<title>Конституція і Корбан</title>
 		<link>https://teteva.com/podcasts/100/</link>
 		<pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/100.mp3</guid>
 		<description>Відкритий лист до Єрмака про ізраїльське громадянство Корбана.
 July 28, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/100.mp3" length="3507827" type="audio/mpeg" />
@@ -721,7 +698,6 @@ July 28, 2022</description>
 		<title>HIMARS або справжні причини відмови у наданні тактичних ракет.</title>
 		<link>https://teteva.com/podcasts/99/</link>
 		<pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/99.mp3</guid>
 		<description>Англосакси відійшли в сторону і залишили нас, Україну?
 June 2, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/99.mp3" length="11066829" type="audio/mpeg" />
@@ -737,7 +713,6 @@ June 2, 2022</description>
 		<title>Коли завершиться війна. Частина друга.</title>
 		<link>https://teteva.com/podcasts/98/</link>
 		<pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/98.mp3</guid>
 		<description>Політики — не воїни, і вони не на полі бою.
 May 31, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/98.mp3" length="8254381" type="audio/mpeg" />
@@ -753,7 +728,6 @@ May 31, 2022</description>
 		<title>Прогнози на війну. Частина перша. Боброїдка.</title>
 		<link>https://teteva.com/podcasts/97/</link>
 		<pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/97.mp3</guid>
 		<description>Путін. Йому потрібен час і уроки, які йому дасть реальність.
 May 31, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/97.mp3" length="5980473" type="audio/mpeg" />
@@ -769,7 +743,6 @@ May 31, 2022</description>
 		<title>Військовий Титан в Україні.</title>
 		<link>https://teteva.com/podcasts/96/</link>
 		<pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/96.mp3</guid>
 		<description>Захід створив в Україні військового титана, який його і погубить.
 May 15, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/96.mp3" length="12711287" type="audio/mpeg" />
@@ -785,7 +758,6 @@ May 15, 2022</description>
 		<title>Пуповина правобережного військового угрупування РФ в Україні.</title>
 		<link>https://teteva.com/podcasts/95/</link>
 		<pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/95.mp3</guid>
 		<description>May 11, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/95.mp3" length="10242403" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/95.jpg" />
@@ -800,7 +772,6 @@ May 15, 2022</description>
 		<title>За деревами лісу не видно.</title>
 		<link>https://teteva.com/podcasts/94/</link>
 		<pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/94.mp3</guid>
 		<description>May 10, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/94.mp3" length="5729801" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/94.jpg" />
@@ -815,7 +786,6 @@ May 15, 2022</description>
 		<title>Ми нашими територіями не торгуємо, інтервʼю Глави ОП. Частина перша.</title>
 		<link>https://teteva.com/podcasts/93/</link>
 		<pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/93.mp3</guid>
 		<description>May 6, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/93.mp3" length="9893928" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/93.jpg" />
@@ -830,7 +800,6 @@ May 15, 2022</description>
 		<title>Прибрати Путіна.</title>
 		<link>https://teteva.com/podcasts/92/</link>
 		<pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/92.mp3</guid>
 		<description>Бо і Чечня і Сирія, це не тільки далеко - це не зовсім білі люди.
 April 28, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/92.mp3" length="3873644" type="audio/mpeg" />
@@ -846,7 +815,6 @@ April 28, 2022</description>
 		<title>Скандальновідомий професор Соловєй про ядерний удар по Польщі.</title>
 		<link>https://teteva.com/podcasts/91/</link>
 		<pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/91.mp3</guid>
 		<description>April 15, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/91.mp3" length="2619349" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/91.jpg" />
@@ -861,7 +829,6 @@ April 28, 2022</description>
 		<title>Знову трохи про Херсон.</title>
 		<link>https://teteva.com/podcasts/90/</link>
 		<pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/90.mp3</guid>
 		<description>Кремль категорично наполягатиме на збереженні контролю над херсонським правобережжям. 
 April 14, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/90.mp3" length="6605426" type="audio/mpeg" />
@@ -877,7 +844,6 @@ April 14, 2022</description>
 		<title>Аналізаторам історії. Тим, хто знаходить аналогії методом промацування.</title>
 		<link>https://teteva.com/podcasts/89/</link>
 		<pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/89.mp3</guid>
 		<description>April 11, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/89.mp3" length="3065729" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/89.jpg" />
@@ -892,7 +858,6 @@ April 14, 2022</description>
 		<title>Чи можлива війна. Знову та знову. Епатаж.  épater les bourgeois.</title>
 		<link>https://teteva.com/podcasts/88/</link>
 		<pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/88.mp3</guid>
 		<description>April 11, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/88.mp3" length="8742451" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/88.jpg" />
@@ -907,7 +872,6 @@ April 14, 2022</description>
 		<title>За деревами лісу не видно.</title>
 		<link>https://teteva.com/podcasts/87/</link>
 		<pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/87.mp3</guid>
 		<description>April 9, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/87.mp3" length="6538970" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/87.jpg" />
@@ -922,7 +886,6 @@ April 14, 2022</description>
 		<title>Крик відчаю Головного розвідника РФ до структур ЛГБТ та НАТО.</title>
 		<link>https://teteva.com/podcasts/86/</link>
 		<pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/86.mp3</guid>
 		<description>Наришкін назвав російську спецоперацію в Україні точкою неповернення. 
 April 7, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/86.mp3" length="8317386" type="audio/mpeg" />
@@ -938,7 +901,6 @@ April 7, 2022</description>
 		<title>Передок Фаріди і екзистенційний вибір Путіна-Слуцького.</title>
 		<link>https://teteva.com/podcasts/85/</link>
 		<pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/85.mp3</guid>
 		<description>April 6, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/85.mp3" length="4118568" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/85.jpg" />
@@ -953,7 +915,6 @@ April 7, 2022</description>
 		<title>Чому Путін копіює кроки Гітлера, як низькопробний злочинець імітатор.</title>
 		<link>https://teteva.com/podcasts/84/</link>
 		<pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/84.mp3</guid>
 		<description>Остаточне вирішення українського питання. 
 April 5, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/84.mp3" length="10753670" type="audio/mpeg" />
@@ -969,7 +930,6 @@ April 5, 2022</description>
 		<title>Про що вони думали? Частина перша. Психічний стан Путіна.</title>
 		<link>https://teteva.com/podcasts/83/</link>
 		<pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/83.mp3</guid>
 		<description>Сенсаційна інформація про стан здоровя путіна. 
 April 3, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/83.mp3" length="3359554" type="audio/mpeg" />
@@ -985,7 +945,6 @@ April 3, 2022</description>
 		<title>Як готувалась війна. Чалий.</title>
 		<link>https://teteva.com/podcasts/82/</link>
 		<pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/82.mp3</guid>
 		<description>April 1, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/82.mp3" length="6019029" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/82.jpg" />
@@ -1000,7 +959,6 @@ April 3, 2022</description>
 		<title>Нагляд за Україною. Нагляд Росією в рамках угоди про гарантії безпеки.</title>
 		<link>https://teteva.com/podcasts/81/</link>
 		<pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/81.mp3</guid>
 		<description>March 31, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/81.mp3" length="4143646" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/81.jpg" />
@@ -1015,7 +973,6 @@ April 3, 2022</description>
 		<title>Троянські коні Росії у складі української переговорної групи.</title>
 		<link>https://teteva.com/podcasts/80/</link>
 		<pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/80.mp3</guid>
 		<description>Чалий, головний троянський кінь Росії у складі Української переговорної групи.
 March 30, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/80.mp3" length="2936162" type="audio/mpeg" />
@@ -1031,7 +988,6 @@ March 30, 2022</description>
 		<title>Російська агентура, як головна бойова одиниця Кремля. Як здали Херсон.</title>
 		<link>https://teteva.com/podcasts/79/</link>
 		<pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/79.mp3</guid>
 		<description>March 29, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/79.mp3" length="4234343" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/79.jpg" />
@@ -1046,7 +1002,6 @@ March 30, 2022</description>
 		<title>Путін, як військовий злочинець, чому це сказано і чому це доводиться поснювати.</title>
 		<link>https://teteva.com/podcasts/78/</link>
 		<pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/78.mp3</guid>
 		<description>Жорстка риторика Байдена в Польщі, чи означає вона відхід від політики балансування щодо Росії?
 March 28, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/78.mp3" length="4268198" type="audio/mpeg" />
@@ -1062,7 +1017,6 @@ March 28, 2022</description>
 		<title>Майстер Путін і Маргарита Петрівна Кабаєва.</title>
 		<link>https://teteva.com/podcasts/77/</link>
 		<pubDate>Sun, 27 Mar 2022 06:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/77.mp3</guid>
 		<description>March 27, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/77.mp3" length="3290173" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/77.jpg" />
@@ -1077,7 +1031,6 @@ March 28, 2022</description>
 		<title>Сухопутний коридор в Крим.</title>
 		<link>https://teteva.com/podcasts/76/</link>
 		<pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/76.mp3</guid>
 		<description>March 27, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/76.mp3" length="2808684" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/76.jpg" />
@@ -1092,7 +1045,6 @@ March 28, 2022</description>
 		<title>Затяжна війна? Російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє.</title>
 		<link>https://teteva.com/podcasts/75/</link>
 		<pubDate>Sat, 26 Mar 2022 07:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/75.mp3</guid>
 		<description>March 26, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/75.mp3" length="1543940" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/75.jpg" />
@@ -1107,7 +1059,6 @@ March 28, 2022</description>
 		<title>Ні про шо, частина друга. Операція Глянець.</title>
 		<link>https://teteva.com/podcasts/74/</link>
 		<pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/74.mp3</guid>
 		<description>February 21, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/74.mp3" length="3947205" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/74.jpg" />
@@ -1122,7 +1073,6 @@ March 28, 2022</description>
 		<title>Любов або війна. Гонець Путіна &#8211; Карасьов.</title>
 		<link>https://teteva.com/podcasts/73/</link>
 		<pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/73.mp3</guid>
 		<description>February 17, 2022</description>
 		<enclosure url="https://media.teteva.com/mp3/73.mp3" length="8490003" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/73.jpg" />
@@ -1137,7 +1087,6 @@ March 28, 2022</description>
 		<title>Романтична історія моряка і Рози. От нєх дєлать. Благовіщенське сьогодні, номер 23.</title>
 		<link>https://teteva.com/podcasts/72/</link>
 		<pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false">https://media.teteva.com/mp3/72.mp3</guid>
 		<description>От нєх дєлать про любов. Одним словом, Рух - це здорово, а сало - дорожає.
 June 11, 2021</description>
 		<enclosure url="https://media.teteva.com/mp3/72.mp3" length="19290487" type="audio/mpeg" />
