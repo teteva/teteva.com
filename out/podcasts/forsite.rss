@@ -12,7 +12,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 <channel>
-	<title>Експлікація. Війна, Україна, світ. </title>
+	<title>Експлікація. Війна, Україна, світ.</title>
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
 	<lastBuildDate>Sun, 18 Jun 2023 12:19:57 +0000</lastBuildDate>
