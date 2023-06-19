@@ -22,7 +22,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-	<itunes:summary>podcast&#039;s site by &#039;Teteva &amp; Тетева&#039;</itunes:summary>
+	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. <br />
+— Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
 	<itunes:author>Teteva &amp; Тетева</itunes:author>
 	<itunes:explicit>yes</itunes:explicit>
 	<itunes:image href="https://media.teteva.com/images/feed.jpg" />
@@ -34,7 +35,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<copyright>teteva.com All rights reserved</copyright>
 	<podcast:license>teteva.com All rights reserved</podcast:license>
 	<podcast:medium>podcast</podcast:medium>
-	<itunes:subtitle>podcast&#039;s site by &#039;Teteva &amp; Тетева&#039;</itunes:subtitle>
+	<itunes:subtitle>Explication. War, Ukraine, the whole world.</itunes:subtitle>
 	<image>
 		<title>Експлікація. Війна, Україна, світ.</title>
 		<url>https://media.teteva.com/images/feed.jpg</url>
