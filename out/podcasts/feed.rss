@@ -22,8 +22,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-	<itunes:summary><![CDATA[<p>— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit.</p><br />
-<p>— Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.</p>]]></itunes:summary>
+	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
 	<itunes:author>Teteva &amp; Тетева</itunes:author>
 	<itunes:explicit>yes</itunes:explicit>
 	<itunes:image href="https://media.teteva.com/images/feed.jpg" />
