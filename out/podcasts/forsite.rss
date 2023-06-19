@@ -15,14 +15,13 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<title>Експлікація. Війна, Україна, світ.</title>
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Mon, 19 Jun 2023 21:16:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jun 2023 21:43:37 +0000</lastBuildDate>
 	<language>uk</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. <br />
-— Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
+	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
 	<itunes:author>Teteva &amp; Тетева</itunes:author>
 	<itunes:explicit>yes</itunes:explicit>
 	<itunes:image href="https://media.teteva.com/images/feed.jpg" />
@@ -58,12 +57,13 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<title>Полк Каліновського в Бєларусі. Кінець режиму? Kastuś Kalinoŭski Regiment.</title>
 		<pubDate>Sun, 18 Jun 2023 12:19:25 +0000</pubDate>
 		<description>Два можливих сценарії розвитку подій. Як може розгортатися ситуація у випадку якщо бєларуси з бойовим досвідом зявляться на півдні Бєларусі. | Two possible scenarios for the development of events. How can the situation unfold if Belarusians with combat experience appear in the south of Belarus?</description>
-		<content:encoded><![CDATA[<p>Як може розгортатися ситуація у випадку якщо бєларуси з бойовим досвідом зявляться на півдні Бєларусі.</p>
+		<content:encoded><![CDATA[<p>Як може розгортатися ситуація у випадку, якщо бєларуси з бойовим досвідом зявляться на півдні Бєларусі.</p>
 <p>Два можливих сценарії реакції Кремля.</p>
-<p>Кремль робить вигляд, що нічого не сталося. І тоді Полк Каліновського розгортає свою діяльність в Бєларусі. Це озброєні і досвідчені люди. Або…</p>
+<p>Наприклад, Кремль робить вигляд, що нічого не сталося. І тоді Полк Каліновського розгортає свою діяльність в Бєларусі. Це озброєні і досвідчені люди. Або…</p>
 <p>Населення Бєларусі, як ми знаємо, не настільки жорстко зомбоване пропагандою. І взагалі, дуже сильно ментально відрізняється від так званих &#8220;росіян&#8221;.</p>
 <p>Полк Каліновського може розпочати виключно з диверсійної діяльності. Наприклад з підриву ключових залізничних мостів. А їх не так багато. В такому разі Кремль не зможе перекинути необхідні військові зʼєднання на допомогу Лукашенку.</p>
-<p>В залежності від того, як піде справа, реальним сценарієм є, наприклад, похід на Мінськ. Або створення такої загрози. Щоб спонукати Лукашенка і Кремль до певних дій.</p>
+<p>В залежності від того, як піде справа, реальним сценарієм є, наприклад, похід на Мінськ. Або створення такої загрози. Щоб спонукати Лукашенка і Кремль до певних дій. </p>
+<p>Інший сценарій походить від розуміння наслідків першого сценарію. </p>
 <p>As of March 2022, it was reported that more than a thousand Belarusians have applied to join the unit. According to its own statements, the battalion is not incorporated into the International Legion of Territorial Defense of Ukraine in order to preserve greater autonomy. Belarusian volunteers in the International Legion are organised in the Pahonia Regiment.</p>
 <p>The unit is named after the Polish-Belarusian national hero Kastus Kalinowski, who was a leader of the January Uprising in 1863 against the Russian Empire in Belarus.</p>
 ]]></content:encoded>
