@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<link>https://teteva.com/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Sun, 18 Jun 2023 12:19:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jun 2023 21:16:47 +0000</lastBuildDate>
 	<language>uk</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -32,8 +32,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:name>Teteva &amp; Тетева</itunes:name>
 		<itunes:email>aaron@teteva.com</itunes:email>
 	</itunes:owner>
-	<copyright>teteva.com All rights reserved</copyright>
-	<podcast:license>teteva.com All rights reserved</podcast:license>
+	<copyright>teteva.com | Teteva &amp; Тетева</copyright>
+	<podcast:license>teteva.com | Teteva &amp; Тетева</podcast:license>
 	<podcast:medium>podcast</podcast:medium>
 	<itunes:subtitle>Explication. War, Ukraine, the whole world.</itunes:subtitle>
 	<image>
@@ -57,15 +57,22 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:frequency>daily</rawvoice:frequency>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 	<item>
-		<title>Полк Каліновського в Бєларусі. Кінець режиму?</title>
+		<title>Полк Каліновського в Бєларусі. Кінець режиму? Kastuś Kalinoŭski Regiment.</title>
 		<link>https://teteva.com/podcasts/141/</link>
 		<pubDate>Sun, 18 Jun 2023 12:19:25 +0000</pubDate>
 		<comments>https://teteva.com/podcasts/141/#respond</comments>
 		<wfw:commentRss>https://teteva.com/podcasts/141/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
-		<description>Два можливих сценарія розвитку подій.</description>
-		<content:encoded><![CDATA[<p>Кремль робить вигляд, що нічого не сталося. І тоді Полк Каліновського розгортає свою діяльність в Бєларусі. Це озброєні і досвідчені люди. Або…</p>
+		<description>Два можливих сценарії розвитку подій. Як може розгортатися ситуація у випадку якщо бєларуси з бойовим досвідом зявляться на півдні Бєларусі. | Two possible scenarios for the development of events. How can the situation unfold if Belarusians with combat experience appear in the south of Belarus?</description>
+		<content:encoded><![CDATA[<p>Як може розгортатися ситуація у випадку якщо бєларуси з бойовим досвідом зявляться на півдні Бєларусі.</p>
+<p>Два можливих сценарії реакції Кремля.</p>
+<p>Кремль робить вигляд, що нічого не сталося. І тоді Полк Каліновського розгортає свою діяльність в Бєларусі. Це озброєні і досвідчені люди. Або…</p>
+<p>Населення Бєларусі, як ми знаємо, не настільки жорстко зомбоване пропагандою. І взагалі, дуже сильно ментально відрізняється від так званих &#8220;росіян&#8221;.</p>
+<p>Полк Каліновського може розпочати виключно з диверсійної діяльності. Наприклад з підриву ключових залізничних мостів. А їх не так багато. В такому разі Кремль не зможе перекинути необхідні військові зʼєднання на допомогу Лукашенку.</p>
+<p>В залежності від того, як піде справа, реальним сценарієм є, наприклад, похід на Мінськ. Або створення такої загрози. Щоб спонукати Лукашенка і Кремль до певних дій.</p>
+<p>As of March 2022, it was reported that more than a thousand Belarusians have applied to join the unit. According to its own statements, the battalion is not incorporated into the International Legion of Territorial Defense of Ukraine in order to preserve greater autonomy. Belarusian volunteers in the International Legion are organised in the Pahonia Regiment.</p>
+<p>The unit is named after the Polish-Belarusian national hero Kastus Kalinowski, who was a leader of the January Uprising in 1863 against the Russian Empire in Belarus.</p>
 ]]></content:encoded>
 		<enclosure url="https://media.teteva.com/mp3/141.mp3" length="19706952" type="audio/mpeg" />
 			<itunes:image href="https://media.teteva.com/images/141.png" />
