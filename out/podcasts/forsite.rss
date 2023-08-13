@@ -54,6 +54,17 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:frequency>daily</rawvoice:frequency>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 	<item>
+		<title>Пашинський.</title>
+		<pubDate>Sun, 13 Aug 2023 15:00:00 +0000</pubDate>
+		<description>Збройна мафія українського походження.</description>
+		<content:encoded><![CDATA[<p>Як торгівці зброєю, які розпродали українські боєприпаси, тепер врятували Україну. The New York Times публікація.</p>
+]]></content:encoded>
+		<enclosure url="https://media.teteva.com/mp3/143.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://media.teteva.com/images/143.jpg" />
+		<id>143</id>
+		<itunes:duration>00:00</itunes:duration>
+	</item>
+	<item>
 		<title>Новини за 12 серпня.</title>
 		<pubDate>Sun, 13 Aug 2023 13:00:06 +0000</pubDate>
 		<description>Короткий огляд.</description>
