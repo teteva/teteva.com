@@ -56,6 +56,86 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:frequency>daily</rawvoice:frequency>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 	<item>
+		<title>Чи хоче Захід стратегічної поразки РФ.</title>
+		<link>https://teteva.com/podcasts/145/</link>
+		<pubDate>Mon, 14 Aug 2023 16:00:00 +0000</pubDate>
+		<comments>https://teteva.com/podcasts/145/#respond</comments>
+		<wfw:commentRss>https://teteva.com/podcasts/145/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>Маніпуляції від Іларіонова №2.</description>
+		<content:encoded><![CDATA[<p>Якщо так званий Захід не хоче стратегічної поразки Росії - ну давайте уявимо, ради інтересу. Але тоді питання - а чи хоче цей самий Захід стратегічної перемоги Росії? Адже залишити захоплені території Кремлю, це можна розцінити як його стратегічну перемогу. Чи потрібно це комусь на загниваючому Заході? Оце і є предмет маніпуляцій.</p>
+]]></content:encoded>
+		<enclosure url="https://media.teteva.com/mp3/145.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://media.teteva.com/images/145.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>145</itunes:episode>
+		<podcast:episode>145</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>00:00</itunes:duration>
+	</item>
+	<item>
+		<title>Новий Іларіонов.</title>
+		<link>https://teteva.com/podcasts/144/</link>
+		<pubDate>Mon, 14 Aug 2023 06:00:00 +0000</pubDate>
+		<comments>https://teteva.com/podcasts/144/#respond</comments>
+		<wfw:commentRss>https://teteva.com/podcasts/144/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>ПроФФесор Соловей перетворюється на доцента Іларіонова.</description>
+		<content:encoded><![CDATA[<p>Агент ФСБ в гостях у людини з подвійною мораллю. Важливі месиджі.</p>
+]]></content:encoded>
+		<enclosure url="https://media.teteva.com/mp3/144.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://media.teteva.com/images/144.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>144</itunes:episode>
+		<podcast:episode>144</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>00:00</itunes:duration>
+	</item>
+	<item>
+		<title>Пашинський.</title>
+		<link>https://teteva.com/podcasts/143/</link>
+		<pubDate>Sun, 13 Aug 2023 15:00:00 +0000</pubDate>
+		<comments>https://teteva.com/podcasts/143/#respond</comments>
+		<wfw:commentRss>https://teteva.com/podcasts/143/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>Збройна мафія українського походження.</description>
+		<content:encoded><![CDATA[<p>Як торгівці зброєю, які розпродали українські боєприпаси, тепер врятували Україну. The New York Times публікація.</p>
+]]></content:encoded>
+		<enclosure url="https://media.teteva.com/mp3/143.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://media.teteva.com/images/143.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>143</itunes:episode>
+		<podcast:episode>143</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>00:00</itunes:duration>
+	</item>
+	<item>
+		<title>Новини за 12 серпня.</title>
+		<link>https://teteva.com/podcasts/142/</link>
+		<pubDate>Sun, 13 Aug 2023 13:00:06 +0000</pubDate>
+		<comments>https://teteva.com/podcasts/142/#respond</comments>
+		<wfw:commentRss>https://teteva.com/podcasts/142/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>Короткий огляд.</description>
+		<content:encoded><![CDATA[<p>Роблю спробу освоїти дещо новий формат. Перша спроба вийшла не настільки лаконічною, як планувалась. Прохання підтримати якоюсь реакцією.</p>
+]]></content:encoded>
+		<enclosure url="https://media.teteva.com/mp3/142.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://media.teteva.com/images/142.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>142</itunes:episode>
+		<podcast:episode>142</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>00:00</itunes:duration>
+	</item>
+	<item>
 		<title>Полк Каліновського в Бєларусі. Кінець режиму? Kastuś Kalinoŭski Regiment.</title>
 		<link>https://teteva.com/podcasts/141/</link>
 		<pubDate>Sun, 18 Jun 2023 12:19:25 +0000</pubDate>
