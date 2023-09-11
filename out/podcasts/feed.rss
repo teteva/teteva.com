@@ -37,7 +37,6 @@
 	<itunes:category text="News">
 		<itunes:category text="Politics" />
 	</itunes:category>
-	<rawvoice:location>Благовіщенське, Україна. </rawvoice:location>
 	<podcast:location>Благовіщенське, Україна. </podcast:location>
 	<rawvoice:frequency>daily</rawvoice:frequency>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
