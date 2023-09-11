@@ -25,7 +25,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
 	<itunes:author>Teteva &amp; Тетева</itunes:author>
 	<itunes:explicit>yes</itunes:explicit>
-	<itunes:image href="https://media.teteva.com/images/feed.jpg" />
+	<itunes:image href="https://img.gopgop.gop/feed.jpg" />
 	<itunes:type>episodic</itunes:type>
 	<itunes:owner>
 		<itunes:name>Teteva &amp; Тетева</itunes:name>
@@ -37,7 +37,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:subtitle>Explication. War, Ukraine, the whole world.</itunes:subtitle>
 	<image>
 		<title>Експлікація. Війна, Україна, світ.</title>
-		<url>https://media.teteva.com/images/feed.jpg</url>
+		<url>https://img.gopgop.gop/feed.jpg</url>
 		<link>https://teteva.com</link>
 	</image>
 	<itunes:category text="Society &amp; Culture">
@@ -66,8 +66,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Знову маніпуляції, але це їх робота.</description>
 		<content:encoded><![CDATA[<p>Маніпуляції російської пропаганди: Паралізована страхом перед ескалацією з боку Росії, адміністрація прагнула лише запобігти поразці. Але такі маніпуляції притаманні і журналістам західного світу. Джон Болтон критикує адміністрацію Байдена, а Dow Jones & Company вдаються до дешевих маніпуляцій в заголовках. І все ж, це вигідно Україні.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/146.mp3" length="11936254" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/146.jpg" />
+		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/146.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/146.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>146</itunes:episode>
@@ -86,8 +86,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Маніпуляції від Іларіонова №2.</description>
 		<content:encoded><![CDATA[<p>Якщо так званий Захід не хоче стратегічної поразки Росії - ну давайте уявимо, ради інтересу. Але тоді питання - а чи хоче цей самий Захід стратегічної перемоги Росії? Адже залишити захоплені території Кремлю, це можна розцінити як його стратегічну перемогу. Чи потрібно це комусь на загниваючому Заході? Оце і є предмет маніпуляцій.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/145.mp3" length="11936254" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/145.jpg" />
+		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/145.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/145.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>145</itunes:episode>
@@ -106,8 +106,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>ПроФФесор Соловей перетворюється на доцента Іларіонова.</description>
 		<content:encoded><![CDATA[<p>Агент ФСБ в гостях у людини з подвійною мораллю. Важливі месиджі.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/144.mp3" length="11936254" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/144.jpg" />
+		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/144.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/144.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>144</itunes:episode>
@@ -126,8 +126,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Збройна мафія українського походження.</description>
 		<content:encoded><![CDATA[<p>Як торгівці зброєю, які розпродали українські боєприпаси, тепер врятували Україну. The New York Times публікація.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/143.mp3" length="11936254" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/143.jpg" />
+		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/143.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/143.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>143</itunes:episode>
@@ -146,8 +146,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Короткий огляд.</description>
 		<content:encoded><![CDATA[<p>Роблю спробу освоїти дещо новий формат. Перша спроба вийшла не настільки лаконічною, як планувалась. Прохання підтримати якоюсь реакцією.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/142.mp3" length="11936254" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/142.jpg" />
+		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/142.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/142.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>142</itunes:episode>
@@ -174,8 +174,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 <p>As of March 2022, it was reported that more than a thousand Belarusians have applied to join the unit. According to its own statements, the battalion is not incorporated into the International Legion of Territorial Defense of Ukraine in order to preserve greater autonomy. Belarusian volunteers in the International Legion are organised in the Pahonia Regiment.</p>
 <p>The unit is named after the Polish-Belarusian national hero Kastus Kalinowski, who was a leader of the January Uprising in 1863 against the Russian Empire in Belarus.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/141.mp3" length="19706952" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/141.png" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/141.mp3" length="19706952" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/141.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>141</itunes:episode>
@@ -194,8 +194,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>План Герасімова чи план Путіна.</description>
 		<content:encoded><![CDATA[<p>Побутує дві помилкові думки: про план Путіна і про провал срецслужб РФ.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/139.mp3" length="11936254" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/139.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/139.mp3" length="11936254" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/139.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>139</itunes:episode>
@@ -214,8 +214,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Частина перша, вступна.</description>
 		<content:encoded><![CDATA[<p>Херсон і нові красні лінії Кремля. Вступ.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/138.mp3" length="9777497" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/138.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/138.mp3" length="9777497" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/138.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>138</itunes:episode>
@@ -234,8 +234,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Маск, мобілізаційний ресурс РФ та інше.</description>
 		<content:encoded><![CDATA[<p>Огляд та коментарі.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/137.mp3" length="9844370" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/137.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/137.mp3" length="9844370" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/137.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>137</itunes:episode>
@@ -254,8 +254,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Фізичне знищення Путіна як наслідок спроб зберегти йому лице.</description>
 		<content:encoded><![CDATA[<p>Це вже не протистояння з НАТО. НАТО &#8211; це всього навсього бойовий підрозділ цивілізованого світу.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/136.mp3" length="11056452" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/136.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/136.mp3" length="11056452" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/136.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>136</itunes:episode>
@@ -274,8 +274,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Одна з версій, якої притримується і Кремль, і Україна, чомусь.</description>
 		<content:encoded><![CDATA[<p>Для здійснення підриву вантажного автомобіля потрібен був безпосередній візуальний контроль. Це аргумент проти версії, що це було під силу українським спеціалістам.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/135.mp3" length="6783237" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/135.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/135.mp3" length="6783237" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/135.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>135</itunes:episode>
@@ -294,8 +294,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>The New York Times про ситуацію.</description>
 		<content:encoded><![CDATA[<p>Те, що The New York Times подає як анонімну заяву українського чиновника, УП подає як доконаний факт.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/134.mp3" length="5037840" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/134.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/134.mp3" length="5037840" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/134.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>134</itunes:episode>
@@ -314,8 +314,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Правобережжя Херсонщини.</description>
 		<content:encoded><![CDATA[<p>Ігри геостратегів-аматорів ОП, які мало не призвела до втрати Півдня. В двох словах.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/133.mp3" length="7189510" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/133.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/133.mp3" length="7189510" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/133.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>133</itunes:episode>
@@ -334,8 +334,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>План блискавичного закінчення війни.</description>
 		<content:encoded><![CDATA[<p>Основні бої знову переміщаються в медіа простір, в інформаційний простір. Єдине місце, де Кремль уміє вести бойові дії. Закінчення війни під загрозою застосування ядерної зброї.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/132.mp3" length="13540802" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/132.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/132.mp3" length="13540802" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/132.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>132</itunes:episode>
@@ -354,8 +354,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>По гарячих слідах виступу Кремлівського Чмошніка.</description>
 		<content:encoded><![CDATA[<p>Це вступний випуск. Щодо виступу зроблю більш розширену частину другу.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/131.mp3" length="6239472" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/131.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/131.mp3" length="6239472" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/131.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>131</itunes:episode>
@@ -374,8 +374,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Колаборанти в Ізюмі вже підняли голову.</description>
 		<content:encoded><![CDATA[<p>Чому тьощин зять, який з незрозумілої причини очолює Верховну Раду, по суті очолює Раду &#8220;Ждунів&#8221;. Проблема колаборантів вирішується простими змінами до Кодексу про адміністративні правопорушення. Описати діяльність, яка має ознаки спрівпраці з ворогом, не являється проблемою з точки зору юридичної техніки. Проблемою є те, що комусь це не потрібно.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/130.mp3" length="11953811" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/130.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/130.mp3" length="11953811" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/130.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>130</itunes:episode>
@@ -394,8 +394,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Свіжий погляд на статтю в Reuters про українську підкилимну групу.</description>
 		<content:encoded><![CDATA[<p>Один з варіантів розвитку подій припускає так званого &#8220;прєємніка&#8221; Путіна. Підкилимні бульдоги Кремля співпрацюють з підкилимними істотами української політики.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/129.mp3" length="1501904" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/129.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/129.mp3" length="1501904" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/129.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>129</itunes:episode>
@@ -414,8 +414,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Цього разу коротко, як вступ до теми.</description>
 		<content:encoded><![CDATA[<p>Росія в Радбезі ООН. Як це сталося (про це в наступному випуску), і чому петиція є простою формою маніпуляції. Примітивний політичний проект. Це вступ до теми, яку вже обговорював раніше.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/128.mp3" length="3636005" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/128.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/128.mp3" length="3636005" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/128.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>128</itunes:episode>
@@ -434,8 +434,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Секретна зброя Кремля?</description>
 		<content:encoded><![CDATA[<p>Чому радники, які є найбільшими і найпалкішими патріотами, проти своєї волі і за відсутності відповідних повноважень вимушені вести переговори з ворогом. Чим не влаштовує радників наш головний союзник, і чому Абрамович їх кращий друг.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/127.mp3" length="12444495" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/127.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/127.mp3" length="12444495" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/127.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>127</itunes:episode>
@@ -454,8 +454,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Що намагається донести нам Подоляк через дружнє ЗМІ?</description>
 		<content:encoded><![CDATA[<p>Чому деякі ЗМІ так радісно почали розносити дезинформацію від Подоляка. Чому, начебто поважні ЗМІ, іноді, коли це потрібно Керівнику ОП, забувають про журналістські стандарти?</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/126.mp3" length="8250274" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/126.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/126.mp3" length="8250274" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/126.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>126</itunes:episode>
@@ -474,8 +474,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Ні про що, частина надцята. Хто винен - Путін чи режим.</description>
 		<content:encoded><![CDATA[<p>Хто розпочав війну &#8211; Путін чи режим Путіна. Ні Росія, ні народ росії, ні режим Путіна не мають власної волі. Гєгєлівської волі.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/125.mp3" length="10679034" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/125.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/125.mp3" length="10679034" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/125.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>125</itunes:episode>
@@ -494,8 +494,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Прєємніки Путіна.</description>
 		<content:encoded><![CDATA[<p>Соловйов боксер. Техніка безконтактного бою від Владіміра.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/123.mp3" length="9624105" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/123.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/123.mp3" length="9624105" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/123.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>123</itunes:episode>
@@ -514,8 +514,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Скажений Путін. Легенда слєдоватєля, що видає себе за розвідника.</description>
 		<content:encoded><![CDATA[<p>Чи лікується імпотенція оскаженілістю. Огризко вважає, що коли немає ким і чим воювати, все це лікується рішучістю Путіна. Не лікується, як не лікується імпотенція сильним бажанням її вилікувати.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/124.mp3" length="7007263" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/124.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/124.mp3" length="7007263" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/124.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>124</itunes:episode>
@@ -534,8 +534,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Чи загрожує Україні затяжна війна.</description>
 		<content:encoded><![CDATA[<p>У двох словах про аналогії з так званою затяжною війною в Ізраїлі. Пізніше треба було б більше про відсутність будь-яких паралелей між війною в Україні та палестино-ізраїльським конфліктом.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/122.mp3" length="8271589" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/122.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/122.mp3" length="8271589" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/122.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>122</itunes:episode>
@@ -554,8 +554,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Імпотент в ролі терориста.</description>
 		<content:encoded><![CDATA[<p>Актор ізображає звіра, який стримує у собі звіра.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/121.mp3" length="5204187" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/121.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/121.mp3" length="5204187" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/121.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>121</itunes:episode>
@@ -574,8 +574,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<description>Ердоган і Путін в одному човні.</description>
 		<content:encoded><![CDATA[<p>Чому не визнавати поразку &#8211; це нормальна, розсудлива позиція.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/120.mp3" length="8083926" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/120.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/120.mp3" length="8083926" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/120.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>120</itunes:episode>
@@ -595,8 +595,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 September 7, 2022</description>
 		<content:encoded><![CDATA[<p>Заяви Лаврова про молдавських термінаторів. Чи може угрупування тираспольської алкашні створити регіональний конфлікт? Чи готова Росія і Європа до цього.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/119.mp3" length="8607211" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/119.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/119.mp3" length="8607211" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/119.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>119</itunes:episode>
@@ -616,8 +616,8 @@ September 7, 2022</description>
 September 5, 2022</description>
 		<content:encoded><![CDATA[<p>Українська Правда, як феномен бульварного чтива. Аналізатори на службі у дітей Лейтєнанта Шмідта.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/118.mp3" length="5745027" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/118.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/118.mp3" length="5745027" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/118.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>118</itunes:episode>
@@ -637,8 +637,8 @@ September 5, 2022</description>
 August 22, 2022</description>
 		<content:encoded><![CDATA[<p>Наївні пояснення Латиніних, щодо ситуації з Дугіним, для закручування гайок в РФ. Закручування гайок Кремлем і так званий привід для цього, це все Басні Криладзе. Війна в Україні розпочалась без всякий &#8220;гляйвіців&#8221; і приводів. Скільки можна обговорювати всілякі там &#8220;приводи&#8221;.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/117.mp3" length="10417392" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/117.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/117.mp3" length="10417392" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/117.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>117</itunes:episode>
@@ -658,8 +658,8 @@ August 22, 2022</description>
 August 20, 2022</description>
 		<content:encoded><![CDATA[<p>У старої шлюхи, у Путіна, майже не залишилось важелів впливу на ситуацію.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/116.mp3" length="9245017" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/116.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/116.mp3" length="9245017" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/116.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>116</itunes:episode>
@@ -679,8 +679,8 @@ August 20, 2022</description>
 August 19, 2022</description>
 		<content:encoded><![CDATA[<p>Росією правлять рептилоїди а наступ на Херсон проспали. Результат аналізу інформації про російське вторгнення.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/115.mp3" length="5531032" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/115.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/115.mp3" length="5531032" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/115.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>115</itunes:episode>
@@ -700,8 +700,8 @@ August 19, 2022</description>
 August 18, 2022</description>
 		<content:encoded><![CDATA[<p>Головна загроза для України, це так зване припинення вогню. Саме на це планують вмовити Президента.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/114.mp3" length="6773624" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/114.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/114.mp3" length="6773624" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/114.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>114</itunes:episode>
@@ -721,8 +721,8 @@ August 18, 2022</description>
 August 18, 2022</description>
 		<content:encoded><![CDATA[<p>Шелест, Карасьов &#8211; хто вони, патріоти? Чи все ж свідомі громадяни?</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/113.mp3" length="8042548" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/113.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/113.mp3" length="8042548" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/113.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>113</itunes:episode>
@@ -742,8 +742,8 @@ August 18, 2022</description>
 August 17, 2022</description>
 		<content:encoded><![CDATA[<p>Старий кінь ізображає молодика, і доводить, що у ліжку він витривалий. Старі добрі методи.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/112.mp3" length="11657895" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/112.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/112.mp3" length="11657895" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/112.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>112</itunes:episode>
@@ -763,8 +763,8 @@ August 17, 2022</description>
 August 16, 2022</description>
 		<content:encoded><![CDATA[<p>Верховний пояснив, чому влада не попередила українців про вторгнення Росії. Президент Володимир Зеленський заявив, що якби влада попередила українців про вторгнення Росії завчасно, то окупанти захопили б Україну за три дні.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/111.mp3" length="6994306" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/111.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/111.mp3" length="6994306" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/111.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>111</itunes:episode>
@@ -784,8 +784,8 @@ August 16, 2022</description>
 August 15, 2022</description>
 		<content:encoded><![CDATA[<p>Чому розмови про закон і порядок, щодо ООН, є дурницями.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/110.mp3" length="8945758" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/110.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/110.mp3" length="8945758" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/110.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>110</itunes:episode>
@@ -806,8 +806,8 @@ August 1, 2022</description>
 		<content:encoded><![CDATA[<p>Генпрокурор: Одна з версій слідства щодо загибелі Вадатурського – цілеспрямоване вбивство.</p>
 <p>Були опитані понад 50 свідків&#8230; Про що? Як ракета летіла?</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/109.mp3" length="4239955" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/109.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/109.mp3" length="4239955" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/109.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>109</itunes:episode>
@@ -827,8 +827,8 @@ August 1, 2022</description>
 August 1, 2022</description>
 		<content:encoded><![CDATA[<p>Чергова сенсація і Третя світова на Тайвані.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/108.mp3" length="9543022" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/108.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/108.mp3" length="9543022" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/108.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>108</itunes:episode>
@@ -850,8 +850,8 @@ July 31, 2022</description>
 <p>Первоначально выражение камень преткновения встречается в Ветхом Завете в Книге пророка Исаии, где Бог говорит о себе:</p>
 <p>будет Он освящением и камнем преткновения, и скалою соблазна для обоих домов Израиля</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/107.mp3" length="7382599" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/107.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/107.mp3" length="7382599" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/107.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>107</itunes:episode>
@@ -871,8 +871,8 @@ July 31, 2022</description>
 July 30, 2022</description>
 		<content:encoded><![CDATA[<p>Що таке лицемірʼя.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/106.mp3" length="7686864" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/106.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/106.mp3" length="7686864" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/106.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>106</itunes:episode>
@@ -892,8 +892,8 @@ July 30, 2022</description>
 July 30, 2022</description>
 		<content:encoded><![CDATA[<p>Реформа Ради Безпеки Організації Об&#8217;єднаних Націй (РБ ООН) охоплює п&#8217;ять ключових питань&#8230; (про це в частині другій)</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/105.mp3" length="5433647" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/105.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/105.mp3" length="5433647" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/105.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>105</itunes:episode>
@@ -913,8 +913,8 @@ July 30, 2022</description>
 July 29, 2022</description>
 		<content:encoded><![CDATA[<p>Reuters: РФ змогла захопити Чорнобиль завдяки спецагентам, яких відправила туди ще в 2021 році.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/103.mp3" length="2666757" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/103.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/103.mp3" length="2666757" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/103.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>103</itunes:episode>
@@ -934,8 +934,8 @@ July 29, 2022</description>
 July 28, 2022</description>
 		<content:encoded><![CDATA[<p>Російські Фашисти почали використовувати паромну переправу поряд з Антонівським мостом.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/102.mp3" length="2873647" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/102.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/102.mp3" length="2873647" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/102.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>102</itunes:episode>
@@ -956,8 +956,8 @@ July 28, 2022</description>
 		<content:encoded><![CDATA[<p>«Путин — психопат с признаками садиста, его провоцирует слабость». Профессор психиатрии Джеймс Фэллон о том, как предотвратить ядерную войну.</p>
 <p>Спірно і НЕнауково.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/101.mp3" length="3128184" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/101.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/101.mp3" length="3128184" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/101.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>101</itunes:episode>
@@ -979,8 +979,8 @@ July 28, 2022</description>
 <blockquote><p>Адже внесок Геннадія Корбана у справу захисту України зараз, як і в 2014 році – вагомий та беззаперечний. (як і вагомий внесок Коломойського)</p></blockquote>
 <p>Питання у тому, є у нас Конституція, чи нема.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/100.mp3" length="3507827" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/100.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/100.mp3" length="3507827" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/100.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>100</itunes:episode>
@@ -1010,8 +1010,8 @@ June 2, 2022</description>
 6:38 Зброя масового ураження , перевернути гральний стіл<br />
 7:09 Далі буде видно. А зброя на підході. The end.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/99.mp3" length="11066829" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/99.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/99.mp3" length="11066829" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/99.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>99</itunes:episode>
@@ -1042,8 +1042,8 @@ May 31, 2022</description>
 5:16 Спроба зайти збоку в аналізі, Правобережжя<br />
 5:43 Продовження у частині третій The end.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/98.mp3" length="8254381" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/98.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/98.mp3" length="8254381" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/98.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>98</itunes:episode>
@@ -1071,8 +1071,8 @@ May 31, 2022</description>
 3:20 Корекція планів вузькооких арійців<br />
 4:00 Анонс The end.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/97.mp3" length="5980473" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/97.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/97.mp3" length="5980473" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/97.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>97</itunes:episode>
@@ -1105,8 +1105,8 @@ May 15, 2022</description>
 7:27 Революція у розумінні Росією своїх проблем<br />
 8:03 Кремль знаходиться на стадії торгу</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/96.mp3" length="12711287" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/96.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/96.mp3" length="12711287" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/96.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>96</itunes:episode>
@@ -1124,8 +1124,8 @@ May 15, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>May 11, 2022</description>
 		<content:encoded><![CDATA[May 11, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/95.mp3" length="10242403" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/95.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/95.mp3" length="10242403" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/95.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>95</itunes:episode>
@@ -1143,8 +1143,8 @@ May 15, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>May 10, 2022</description>
 		<content:encoded><![CDATA[May 10, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/94.mp3" length="5729801" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/94.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/94.mp3" length="5729801" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/94.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>94</itunes:episode>
@@ -1162,8 +1162,8 @@ May 15, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>May 6, 2022</description>
 		<content:encoded><![CDATA[May 6, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/93.mp3" length="9893928" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/93.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/93.mp3" length="9893928" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/93.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>93</itunes:episode>
@@ -1183,8 +1183,8 @@ May 15, 2022</description>
 April 28, 2022</description>
 		<content:encoded><![CDATA[<p>Путін, як військовий злочинець і фашист, народився в Чечні і пройшов процес становлення в Сирії. Все це про расизм. Бо і Чечня і Сирія, це не тільки далеко &#8211; це не зовсім білі люди, в розумінні європейців. В Сирії Путін напрацьовував імунітет Європи до злодіянь проти людства. Людяності.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/92.mp3" length="3873644" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/92.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/92.mp3" length="3873644" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/92.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>92</itunes:episode>
@@ -1202,8 +1202,8 @@ April 28, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 15, 2022</description>
 		<content:encoded><![CDATA[April 15, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/91.mp3" length="2619349" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/91.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/91.mp3" length="2619349" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/91.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>91</itunes:episode>
@@ -1225,8 +1225,8 @@ April 14, 2022</description>
 Сусідні автомобільний міст та особливо залізничний (Антонівський) міст &#8211; без них постачання армії РФ на правий берег майже неможливе. Нову Каховку поки не беремо до уваги, хоча і тут невідомо, що ми і для кого зберегли.<br />
 І можна не сумніватися, що Кремль категорично наполягатиме на збереженні контролю над херсонським правобережжям, у будь яких перемовинах про перемир‘я.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/90.mp3" length="6605426" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/90.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/90.mp3" length="6605426" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/90.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>90</itunes:episode>
@@ -1244,8 +1244,8 @@ April 14, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 11, 2022</description>
 		<content:encoded><![CDATA[April 11, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/89.mp3" length="3065729" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/89.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/89.mp3" length="3065729" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/89.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>89</itunes:episode>
@@ -1263,8 +1263,8 @@ April 14, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 11, 2022</description>
 		<content:encoded><![CDATA[April 11, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/88.mp3" length="8742451" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/88.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/88.mp3" length="8742451" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/88.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>88</itunes:episode>
@@ -1283,8 +1283,8 @@ April 14, 2022</description>
 		<description>April 9, 2022</description>
 		<content:encoded><![CDATA[<p>Чому Путіна ігнорують. І чому це стає правилом. Чергове китайське попередження.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/87.mp3" length="6538970" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/87.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/87.mp3" length="6538970" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/87.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>87</itunes:episode>
@@ -1304,8 +1304,8 @@ April 14, 2022</description>
 April 7, 2022</description>
 		<content:encoded><![CDATA[<p>Директор Служби зовнішньої розвідки (СЗР) Сергій Наришкін назвав російську спецоперацію в Україні точкою неповернення для колективного Заходу: &#8220;Ступінь абсурду і істерії настільки завищена, що навіть російські коти піддаються нападам, яких відсторонюють від участі в зарубіжних виставках&#8221;</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/86.mp3" length="8317386" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/86.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/86.mp3" length="8317386" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/86.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>86</itunes:episode>
@@ -1323,8 +1323,8 @@ April 7, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 6, 2022</description>
 		<content:encoded><![CDATA[April 6, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/85.mp3" length="4118568" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/85.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/85.mp3" length="4118568" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/85.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>85</itunes:episode>
@@ -1344,8 +1344,8 @@ April 7, 2022</description>
 April 5, 2022</description>
 		<content:encoded><![CDATA[<p>Отже, ми маємо справу з задекларованим РФ необхідним з її точки зору геноцидом українців, як можливість вирішити українське питання раз і назавжди. Тому що українство &#8211; загроза Росії, як про це прямо сказано в статті. Саме “Остаточне вирішення українського питання” путін назвав ціллю початку війни в Україні, вранці 24 лютого.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/84.mp3" length="10753670" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/84.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/84.mp3" length="10753670" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/84.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>84</itunes:episode>
@@ -1366,8 +1366,8 @@ April 3, 2022</description>
 		<content:encoded><![CDATA[<p>Сенсаційна інформація про стан здоровʼя путіна та ритуальні збочення в Кремлі, зроблені  занадто провокаційно та демостративно.<br />
 Ця начебто таємна та бентежна інформація, подана таким чином, що однозначно можна сказати лише одне &#8211; вона викликає різнонаправлені реакції та висновки. А це головна ознака “вкиду” що має ціллю посіяти сумʼяття щодо дійсного стану “вождя”.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/83.mp3" length="3359554" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/83.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/83.mp3" length="3359554" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/83.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>83</itunes:episode>
@@ -1385,8 +1385,8 @@ April 3, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 1, 2022</description>
 		<content:encoded><![CDATA[April 1, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/82.mp3" length="6019029" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/82.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/82.mp3" length="6019029" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/82.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>82</itunes:episode>
@@ -1404,8 +1404,8 @@ April 3, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>March 31, 2022</description>
 		<content:encoded><![CDATA[March 31, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/81.mp3" length="4143646" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/81.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/81.mp3" length="4143646" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/81.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>81</itunes:episode>
@@ -1425,8 +1425,8 @@ April 3, 2022</description>
 March 30, 2022</description>
 		<content:encoded><![CDATA[<p>Прибічник теорії про Гегемонію Росії, пан Карасьов, вже оцінив перемовини в Стамбулі, як перемогу України. А його близький друг, Чалий, головний троянський кінь Росії у складі Української переговорної групи.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/80.mp3" length="2936162" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/80.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/80.mp3" length="2936162" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/80.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>80</itunes:episode>
@@ -1444,8 +1444,8 @@ March 30, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>March 29, 2022</description>
 		<content:encoded><![CDATA[March 29, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/79.mp3" length="4234343" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/79.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/79.mp3" length="4234343" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/79.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>79</itunes:episode>
@@ -1469,8 +1469,8 @@ March 28, 2022</description>
 “Ця людина” , всім було зрозуміло, мова про Путіна.<br />
 В якій ситуації виголошувалась ця промова? Білий Дім вимушений постійно вирішувати проблему єдності в рядах західних союзників. Багато хто постійно забуває, наскільки це серйозна проблема.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/78.mp3" length="4268198" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/78.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/78.mp3" length="4268198" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/78.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>78</itunes:episode>
@@ -1488,8 +1488,8 @@ March 28, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>March 27, 2022</description>
 		<content:encoded><![CDATA[March 27, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/77.mp3" length="3290173" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/77.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/77.mp3" length="3290173" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/77.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>77</itunes:episode>
@@ -1507,8 +1507,8 @@ March 28, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>March 27, 2022</description>
 		<content:encoded><![CDATA[March 27, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/76.mp3" length="2808684" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/76.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/76.mp3" length="2808684" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/76.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>76</itunes:episode>
@@ -1527,8 +1527,8 @@ March 28, 2022</description>
 		<description>March 26, 2022</description>
 		<content:encoded><![CDATA[<p>Чи справді російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє. Але теперешні втрати Росії в Країні в сто разів інтенсивніші, ніж втрати Радянського Союзу в Афганістані.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/75.mp3" length="1543940" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/75.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/75.mp3" length="1543940" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/75.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>75</itunes:episode>
@@ -1546,8 +1546,8 @@ March 28, 2022</description>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>February 21, 2022</description>
 		<content:encoded><![CDATA[February 21, 2022]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/74.mp3" length="3947205" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/74.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/74.mp3" length="3947205" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/74.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>74</itunes:episode>
@@ -1566,8 +1566,8 @@ March 28, 2022</description>
 		<description>February 17, 2022</description>
 		<content:encoded><![CDATA[<p>Палюбі мєня такой.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/73.mp3" length="8490003" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/73.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/73.mp3" length="8490003" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/73.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>73</itunes:episode>
@@ -1591,8 +1591,8 @@ June 11, 2021</description>
 Зрозуміло &#8211; от нєх дєлать.</p>
 <p>Одним словом, Рух &#8211; це здорово, а сало &#8211; дорожає.</p>
 ]]></content:encoded>
-		<enclosure url="https://media.teteva.com/mp3/72.mp3" length="19290487" type="audio/mpeg" />
-			<itunes:image href="https://media.teteva.com/images/72.jpg" />
+		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/72.mp3" length="19290487" type="audio/mpeg" />
+			<itunes:image href="https://img.gopgop.gop/72.jpg" />
 		<itunes:season>1</itunes:season>
 		<podcast:season>1</podcast:season>
 		<itunes:episode>72</itunes:episode>
