@@ -24,7 +24,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
 	<itunes:author>Teteva &amp; Тетева</itunes:author>
-	<itunes:explicit>yes</itunes:explicit>
+	<itunes:explicit>true</itunes:explicit>
 	<itunes:image href="https://img.gopgop.gop/feed.jpg" />
 	<itunes:type>episodic</itunes:type>
 	<itunes:owner>
