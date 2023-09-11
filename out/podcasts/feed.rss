@@ -39,96 +39,102 @@
 	</itunes:category>
 	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
-	<item>
-		<title>Чи зупинив Байден наступ України.</title>
-		<link>https://gopgop.gop/146/</link>
-		<pubDate>Tue, 15 Aug 2023 11:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Знову маніпуляції, але це їх робота.</description>
-		<content:encoded><![CDATA[<p>Маніпуляції російської пропаганди: Паралізована страхом перед ескалацією з боку Росії, адміністрація прагнула лише запобігти поразці. Але такі маніпуляції притаманні і журналістам західного світу. Джон Болтон критикує адміністрацію Байдена, а Dow Jones & Company вдаються до дешевих маніпуляцій в заголовках. І все ж, це вигідно Україні.</p>
-]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/146.mp3" length="11936254" type="audio/mpeg" />
+		
+		<item>
+			<title>146: Чи зупинив Байден наступ України.</title>
+			<itunes:title>Чи зупинив Байден наступ України.</itunes:title>
+			<pubDate>Tue, 15 Aug 2023 02:24:20 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d95eeb1d-01db-4f26-9478-dcde133f24b2]]></guid>
+			<link><![CDATA[https://gopgop.gop/146]]></link>
 			<itunes:image href="https://img.gopgop.gop/146.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>146</itunes:episode>
-		<podcast:episode>146</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>00:00</itunes:duration>
-	</item>
-	<item>
-		<title>Чи хоче Захід стратегічної поразки РФ.</title>
-		<link>https://gopgop.gop/145/</link>
-		<pubDate>Mon, 14 Aug 2023 16:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Маніпуляції від Іларіонова №2.</description>
-		<content:encoded><![CDATA[<p>Якщо так званий Захід не хоче стратегічної поразки Росії - ну давайте уявимо, ради інтересу. Але тоді питання - а чи хоче цей самий Захід стратегічної перемоги Росії? Адже залишити захоплені території Кремлю, це можна розцінити як його стратегічну перемогу. Чи потрібно це комусь на загниваючому Заході? Оце і є предмет маніпуляцій.</p>
-]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/145.mp3" length="11936254" type="audio/mpeg" />
+			<description><![CDATA[<p><span style="font-size: 14pt;">Маніпуляції російської пропаганди: паралізована страхом перед ескалацією з боку Росії, адміністрація прагнула лише запобігти поразці.</span></p> <p><span style="font-size: 14pt;">Але такі маніпуляції притаманні і журналістам західного світу. <strong>Джон Болтон критикує адміністрацію Байдена</strong>, а Dow Jones & Company вдаються до дешевих маніпуляцій в заголовках.</span></p> <p><span style="font-size: 14pt;">І все ж, це вигідно Україні.</span></p>]]></description>
+			<content:encoded><![CDATA[<p>Маніпуляції російської пропаганди: паралізована страхом перед ескалацією з боку Росії, адміністрація прагнула лише запобігти поразці.</p> <p>Але такі маніпуляції притаманні і журналістам західного світу. Джон Болтон критикує адміністрацію Байдена, а Dow Jones & Company вдаються до дешевих маніпуляцій в заголовках.</p> <p>І все ж, це вигідно Україні.</p>]]></content:encoded>
+			<enclosure length="17179920" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/146.mp3?dest-id=4140696" />
+			<itunes:duration>17:47</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Маніпуляції російської пропаганди: паралізована страхом перед ескалацією з боку Росії, адміністрація прагнула лише запобігти поразці....]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>146</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>145: Чи хоче Захід стратегічної поразки РФ.</title>
+			<itunes:title>145: Чи хоче Захід стратегічної поразки РФ.</itunes:title>
+			<pubDate>Mon, 14 Aug 2023 06:24:49 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[822792da-a5ac-4422-a6aa-c5cb2650aa39]]></guid>
+			<link><![CDATA[https://gopgop.gop/145]]></link>
 			<itunes:image href="https://img.gopgop.gop/145.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>145</itunes:episode>
-		<podcast:episode>145</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>00:00</itunes:duration>
-	</item>
-	<item>
-		<title>Новий Іларіонов.</title>
-		<link>https://gopgop.gop/144/</link>
-		<pubDate>Mon, 14 Aug 2023 06:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>ПроФФесор Соловей перетворюється на доцента Іларіонова.</description>
-		<content:encoded><![CDATA[<p>Агент ФСБ в гостях у людини з подвійною мораллю. Важливі месиджі.</p>
-]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/144.mp3" length="11936254" type="audio/mpeg" />
+			<description><![CDATA[<p>Якщо так званий Захід не хоче стратегічної поразки Росії - ну давайте уявимо, ради інтересу.</p> <p>Але тоді питання: <em>а чи хоче цей самий Захід стратегічної перемоги Росії?</em> Адже залишити захоплені території Кремлю - це можна розцінити як його стратегічну перемогу.</p> <p>Чи потрібно це комусь на загниваючому Заході? Оце і є предмет маніпуляцій.</p>]]></description>
+			<content:encoded><![CDATA[<p>Якщо так званий Захід не хоче стратегічної поразки Росії - ну давайте уявимо, ради інтересу.</p> <p>Але тоді питання: <em>а чи хоче цей самий Захід стратегічної перемоги Росії?</em> Адже залишити захоплені території Кремлю - це можна розцінити як його стратегічну перемогу.</p> <p>Чи потрібно це комусь на загниваючому Заході? Оце і є предмет маніпуляцій.</p>]]></content:encoded>
+			<enclosure length="19387519" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/145.mp3?dest-id=4140696" />
+			<itunes:duration>20:04</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Якщо так званий Захід не хоче стратегічної поразки Росії - ну давайте уявимо, ради інтересу. Але тоді питання: а чи хоче цей самий Захід...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>145</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>144: Новий Іларіонов.</title>
+			<itunes:title>Новий Іларіонов.</itunes:title>
+			<pubDate>Mon, 14 Aug 2023 02:22:48 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a2b4ef8d-56c0-4bc4-aa32-cf6ccd714807]]></guid>
+			<link><![CDATA[https://gopgop.gop/144]]></link>
 			<itunes:image href="https://img.gopgop.gop/144.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>144</itunes:episode>
-		<podcast:episode>144</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>00:00</itunes:duration>
-	</item>
-	<item>
-		<title>Пашинський.</title>
-		<link>https://gopgop.gop/143/</link>
-		<pubDate>Sun, 13 Aug 2023 15:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Збройна мафія українського походження.</description>
-		<content:encoded><![CDATA[<p>Як торгівці зброєю, які розпродали українські боєприпаси, тепер врятували Україну. The New York Times публікація.</p>
-]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/143.mp3" length="11936254" type="audio/mpeg" />
+			<description><![CDATA[Агент ФСБ в гостях у людини з подвійною мораллю. Важливі месиджі.]]></description>
+			<content:encoded><![CDATA[Агент ФСБ в гостях у людини з подвійною мораллю. Важливі месиджі.]]></content:encoded>
+			<enclosure length="5770000" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/144.mp3?dest-id=4140696" />
+			<itunes:duration>05:54</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Агент ФСБ в гостях у людини з подвійною мораллю. Важливі месиджі.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>144</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>143: Пашинський.</title>
+			<itunes:title>Пашинський.</itunes:title>
+			<pubDate>Sun, 13 Aug 2023 06:23:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ea6b4cb3-42dc-419d-9c58-4e6e8e26cd1b]]></guid>
+			<link><![CDATA[https://gopgop.gop/143]]></link>
 			<itunes:image href="https://img.gopgop.gop/143.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>143</itunes:episode>
-		<podcast:episode>143</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>00:00</itunes:duration>
-	</item>
-	<item>
-		<title>Новини за 12 серпня.</title>
-		<link>https://gopgop.gop/142/</link>
-		<pubDate>Sun, 13 Aug 2023 13:00:06 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Короткий огляд.</description>
-		<content:encoded><![CDATA[<p>Роблю спробу освоїти дещо новий формат. Перша спроба вийшла не настільки лаконічною, як планувалась. Прохання підтримати якоюсь реакцією.</p>
-]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/force-cdn/highwinds/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/142.mp3" length="11936254" type="audio/mpeg" />
+			<description><![CDATA[<p>Як торгівці зброєю, які розпродали українські боєприпаси, тепер врятували Україну.</p> <p><strong><em>The New York</em></strong> Times публікація.</p>]]></description>
+			<content:encoded><![CDATA[<p>Як торгівці зброєю, які розпродали українські боєприпаси, тепер врятували Україну.</p> <p><em>The New York</em> Times публікація.</p>]]></content:encoded>
+			<enclosure length="13478431" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/143.mp3?dest-id=4140696" />
+			<itunes:duration>13:59</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Як торгівці зброєю, які розпродали українські боєприпаси, тепер врятували Україну. The New York Times публікація.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>143</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>142: Новини за 12 серпня.</title>
+			<itunes:title>Новини за 12 серпня.</itunes:title>
+			<pubDate>Sun, 13 Aug 2023 02:23:50 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a6e4ce4d-368e-44fd-b485-e97950038cb0]]></guid>
+			<link><![CDATA[https://gopgop.gop/142]]></link>
 			<itunes:image href="https://img.gopgop.gop/142.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>142</itunes:episode>
-		<podcast:episode>142</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>00:00</itunes:duration>
-	</item>
+			<description><![CDATA[<p>Роблю спробу освоїти дещо новий формат. Перша спроба вийшла не настільки лаконічною, як планувалась. <strong>Прохання підтримати якоюсь реакцією.</strong></p>]]></description>
+			<content:encoded><![CDATA[<p>Роблю спробу освоїти дещо новий формат. Перша спроба вийшла не настільки лаконічною, як планувалась. Прохання підтримати якоюсь реакцією.</p>]]></content:encoded>
+			<enclosure length="15464271" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/142.mp3?dest-id=4140696" />
+			<itunes:duration>16:03</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Роблю спробу освоїти дещо новий формат. Перша спроба вийшла не настільки лаконічною, як планувалась. Прохання підтримати якоюсь реакцією.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>142</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
 	<item>
 		<title>Полк Каліновського в Бєларусі. Кінець режиму? Kastuś Kalinoŭski Regiment.</title>
 		<link>https://gopgop.gop/141/</link>
