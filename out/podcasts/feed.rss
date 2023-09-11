@@ -37,8 +37,7 @@
 	<itunes:category text="News">
 		<itunes:category text="Politics" />
 	</itunes:category>
-	<podcast:location>Благовіщенське, Україна. </podcast:location>
-	<rawvoice:frequency>daily</rawvoice:frequency>
+	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 	<item>
 		<title>Чи зупинив Байден наступ України.</title>
