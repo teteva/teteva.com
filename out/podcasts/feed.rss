@@ -37,7 +37,6 @@
 	<itunes:category text="News">
 		<itunes:category text="Politics" />
 	</itunes:category>
-	<rawvoice:rating>TV-G</rawvoice:rating>
 	<rawvoice:location>Благовіщенське, Україна. </rawvoice:location>
 	<podcast:location>Благовіщенське, Україна. </podcast:location>
 	<rawvoice:frequency>daily</rawvoice:frequency>
