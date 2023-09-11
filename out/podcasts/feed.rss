@@ -14,7 +14,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 <channel>
 	<title>Експлікація. Війна, Україна, світ.</title>
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
-	<link>https://teteva.com/</link>
+	<link>https://gopgop.gop/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
 	<lastBuildDate>Mon, 19 Jun 2023 21:43:37 +0000</lastBuildDate>
 	<language>uk</language>
@@ -31,14 +31,14 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<itunes:name>Teteva &amp; Тетева</itunes:name>
 		<itunes:email>aaron@teteva.com</itunes:email>
 	</itunes:owner>
-	<copyright>teteva.com | Teteva &amp; Тетева</copyright>
-	<podcast:license>teteva.com | Teteva &amp; Тетева</podcast:license>
+	<copyright>www.gopgop.gop | Teteva &amp; Тетева</copyright>
+	<podcast:license>www.gopgop.gop | Teteva &amp; Тетева</podcast:license>
 	<podcast:medium>podcast</podcast:medium>
 	<itunes:subtitle>Explication. War, Ukraine, the whole world.</itunes:subtitle>
 	<image>
 		<title>Експлікація. Війна, Україна, світ.</title>
 		<url>https://img.gopgop.gop/feed.jpg</url>
-		<link>https://teteva.com</link>
+		<link><![CDATA[https://gopgop.gop]]></link>
 	</image>
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals" />
@@ -57,10 +57,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 	<item>
 		<title>Чи зупинив Байден наступ України.</title>
-		<link>https://teteva.com/podcasts/146/</link>
+		<link>https://gopgop.gop/146/</link>
 		<pubDate>Tue, 15 Aug 2023 11:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/146/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/146/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/146/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/146/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Знову маніпуляції, але це їх робота.</description>
@@ -77,10 +77,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Чи хоче Захід стратегічної поразки РФ.</title>
-		<link>https://teteva.com/podcasts/145/</link>
+		<link>https://gopgop.gop/145/</link>
 		<pubDate>Mon, 14 Aug 2023 16:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/145/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/145/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/145/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/145/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Маніпуляції від Іларіонова №2.</description>
@@ -97,10 +97,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Новий Іларіонов.</title>
-		<link>https://teteva.com/podcasts/144/</link>
+		<link>https://gopgop.gop/144/</link>
 		<pubDate>Mon, 14 Aug 2023 06:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/144/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/144/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/144/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/144/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>ПроФФесор Соловей перетворюється на доцента Іларіонова.</description>
@@ -117,10 +117,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Пашинський.</title>
-		<link>https://teteva.com/podcasts/143/</link>
+		<link>https://gopgop.gop/143/</link>
 		<pubDate>Sun, 13 Aug 2023 15:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/143/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/143/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/143/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/143/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Збройна мафія українського походження.</description>
@@ -137,10 +137,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Новини за 12 серпня.</title>
-		<link>https://teteva.com/podcasts/142/</link>
+		<link>https://gopgop.gop/142/</link>
 		<pubDate>Sun, 13 Aug 2023 13:00:06 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/142/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/142/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/142/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/142/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Короткий огляд.</description>
@@ -157,10 +157,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Полк Каліновського в Бєларусі. Кінець режиму? Kastuś Kalinoŭski Regiment.</title>
-		<link>https://teteva.com/podcasts/141/</link>
+		<link>https://gopgop.gop/141/</link>
 		<pubDate>Sun, 18 Jun 2023 12:19:25 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/141/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/141/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/141/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/141/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Два можливих сценарії розвитку подій. Як може розгортатися ситуація у випадку якщо бєларуси з бойовим досвідом зявляться на півдні Бєларусі. | Two possible scenarios for the development of events. How can the situation unfold if Belarusians with combat experience appear in the south of Belarus?</description>
@@ -185,10 +185,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Провал і тріумф спецслужб. План Путіна.</title>
-		<link>https://teteva.com/podcasts/139/</link>
+		<link>https://gopgop.gop/139/</link>
 		<pubDate>Sun, 30 Apr 2023 09:00:06 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/139/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/139/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/139/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/139/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>План Герасімова чи план Путіна.</description>
@@ -205,10 +205,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Аналіз і прогноз.</title>
-		<link>https://teteva.com/podcasts/138/</link>
+		<link>https://gopgop.gop/138/</link>
 		<pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/138/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/138/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/138/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/138/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Частина перша, вступна.</description>
@@ -225,10 +225,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Огляд новин.</title>
-		<link>https://teteva.com/podcasts/137/</link>
+		<link>https://gopgop.gop/137/</link>
 		<pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/137/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/137/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/137/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/137/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Маск, мобілізаційний ресурс РФ та інше.</description>
@@ -245,10 +245,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Прибрати Путіна. Місія заради миру.</title>
-		<link>https://teteva.com/podcasts/136/</link>
+		<link>https://gopgop.gop/136/</link>
 		<pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/136/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/136/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/136/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/136/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Фізичне знищення Путіна як наслідок спроб зберегти йому лице.</description>
@@ -265,10 +265,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Кримський міст. Версії.</title>
-		<link>https://teteva.com/podcasts/135/</link>
+		<link>https://gopgop.gop/135/</link>
 		<pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/135/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/135/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/135/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/135/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Одна з версій, якої притримується і Кремль, і Україна, чомусь.</description>
@@ -285,10 +285,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Кримський міст. Вступ.</title>
-		<link>https://teteva.com/podcasts/134/</link>
+		<link>https://gopgop.gop/134/</link>
 		<pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/134/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/134/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/134/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/134/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>The New York Times про ситуацію.</description>
@@ -305,10 +305,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Геостратегія по аматорськи.</title>
-		<link>https://teteva.com/podcasts/133/</link>
+		<link>https://gopgop.gop/133/</link>
 		<pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/133/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/133/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/133/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/133/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Правобережжя Херсонщини.</description>
@@ -325,10 +325,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Бліц-криг.</title>
-		<link>https://teteva.com/podcasts/132/</link>
+		<link>https://gopgop.gop/132/</link>
 		<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/132/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/132/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/132/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/132/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>План блискавичного закінчення війни.</description>
@@ -345,10 +345,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Чмошнік. Частина перша.</title>
-		<link>https://teteva.com/podcasts/131/</link>
+		<link>https://gopgop.gop/131/</link>
 		<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/131/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/131/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/131/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/131/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>По гарячих слідах виступу Кремлівського Чмошніка.</description>
@@ -365,10 +365,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Колаборанти.</title>
-		<link>https://teteva.com/podcasts/130/</link>
+		<link>https://gopgop.gop/130/</link>
 		<pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/130/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/130/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/130/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/130/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Колаборанти в Ізюмі вже підняли голову.</description>
@@ -385,10 +385,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Сенсація. Майже. Козак.</title>
-		<link>https://teteva.com/podcasts/129/</link>
+		<link>https://gopgop.gop/129/</link>
 		<pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/129/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/129/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/129/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/129/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Свіжий погляд на статтю в Reuters про українську підкилимну групу.</description>
@@ -405,10 +405,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Знову ні про що.</title>
-		<link>https://teteva.com/podcasts/128/</link>
+		<link>https://gopgop.gop/128/</link>
 		<pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/128/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/128/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/128/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/128/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Цього разу коротко, як вступ до теми.</description>
@@ -425,10 +425,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Радники Єрмака проти американців.</title>
-		<link>https://teteva.com/podcasts/127/</link>
+		<link>https://gopgop.gop/127/</link>
 		<pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/127/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/127/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/127/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/127/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Секретна зброя Кремля?</description>
@@ -445,10 +445,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Термінові мирні переговори з Москвою?</title>
-		<link>https://teteva.com/podcasts/126/</link>
+		<link>https://gopgop.gop/126/</link>
 		<pubDate>Sun, 11 Sep 2022 22:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/126/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/126/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/126/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/126/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Що намагається донести нам Подоляк через дружнє ЗМІ?</description>
@@ -465,10 +465,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Ні про що.</title>
-		<link>https://teteva.com/podcasts/125/</link>
+		<link>https://gopgop.gop/125/</link>
 		<pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/125/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/125/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/125/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/125/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Ні про що, частина надцята. Хто винен - Путін чи режим.</description>
@@ -485,10 +485,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Затяжна війна, частина друга. Прєємніки.</title>
-		<link>https://teteva.com/podcasts/123/</link>
+		<link>https://gopgop.gop/123/</link>
 		<pubDate>Fri, 09 Sep 2022 06:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/123/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/123/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/123/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/123/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Прєємніки Путіна.</description>
@@ -505,10 +505,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Скажена імпотенція.</title>
-		<link>https://teteva.com/podcasts/124/</link>
+		<link>https://gopgop.gop/124/</link>
 		<pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/124/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/124/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/124/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/124/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Скажений Путін. Легенда слєдоватєля, що видає себе за розвідника.</description>
@@ -525,10 +525,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Затяжна війна.</title>
-		<link>https://teteva.com/podcasts/122/</link>
+		<link>https://gopgop.gop/122/</link>
 		<pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/122/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/122/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/122/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/122/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Чи загрожує Україні затяжна війна.</description>
@@ -545,10 +545,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Ізображеніє звєря.</title>
-		<link>https://teteva.com/podcasts/121/</link>
+		<link>https://gopgop.gop/121/</link>
 		<pubDate>Thu, 08 Sep 2022 04:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/121/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/121/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/121/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/121/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Імпотент в ролі терориста.</description>
@@ -565,10 +565,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Чому Путін не визнає поразку.</title>
-		<link>https://teteva.com/podcasts/120/</link>
+		<link>https://gopgop.gop/120/</link>
 		<pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/120/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/120/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/120/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/120/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Ердоган і Путін в одному човні.</description>
@@ -585,10 +585,10 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</item>
 	<item>
 		<title>Придністровя.</title>
-		<link>https://teteva.com/podcasts/119/</link>
+		<link>https://gopgop.gop/119/</link>
 		<pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/119/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/119/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/119/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/119/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Колбасний склад - колбасний приз.
@@ -606,10 +606,10 @@ September 7, 2022</description>
 	</item>
 	<item>
 		<title>Три Романа у стакана.</title>
-		<link>https://teteva.com/podcasts/118/</link>
+		<link>https://gopgop.gop/118/</link>
 		<pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/118/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/118/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/118/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/118/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Роман, Роман і Романюк аналізують аналізи.
@@ -627,10 +627,10 @@ September 5, 2022</description>
 	</item>
 	<item>
 		<title>Дугін і руській мір в Україні.</title>
-		<link>https://teteva.com/podcasts/117/</link>
+		<link>https://gopgop.gop/117/</link>
 		<pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/117/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/117/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/117/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/117/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Руській мір Орестовича.
@@ -648,10 +648,10 @@ August 22, 2022</description>
 	</item>
 	<item>
 		<title>Одна із загроз.</title>
-		<link>https://teteva.com/podcasts/116/</link>
+		<link>https://gopgop.gop/116/</link>
 		<pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/116/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/116/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/116/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/116/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Хто замінить Президента у випадку чого.
@@ -669,10 +669,10 @@ August 20, 2022</description>
 	</item>
 	<item>
 		<title>Тридцятирічні генерали.</title>
-		<link>https://teteva.com/podcasts/115/</link>
+		<link>https://gopgop.gop/115/</link>
 		<pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/115/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/115/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/115/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/115/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Буданов про вторгнення та інше.
@@ -690,10 +690,10 @@ August 19, 2022</description>
 	</item>
 	<item>
 		<title>Ердоган і Путін, Сирія проти України?</title>
-		<link>https://teteva.com/podcasts/114/</link>
+		<link>https://gopgop.gop/114/</link>
 		<pubDate>Thu, 18 Aug 2022 04:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/114/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/114/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/114/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/114/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Що і кому продає Ердоган.
@@ -711,10 +711,10 @@ August 18, 2022</description>
 	</item>
 	<item>
 		<title>Агентура ФСБ будує вільну Україну.</title>
-		<link>https://teteva.com/podcasts/113/</link>
+		<link>https://gopgop.gop/113/</link>
 		<pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/113/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/113/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/113/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/113/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Чому так вільно дихає руський чєловєк в Українському інфопросторі.
@@ -732,10 +732,10 @@ August 18, 2022</description>
 	</item>
 	<item>
 		<title>Медуза, як прес-секретар Путіна.</title>
-		<link>https://teteva.com/podcasts/112/</link>
+		<link>https://gopgop.gop/112/</link>
 		<pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/112/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/112/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/112/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/112/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Опозиційна Медуза пояснює слова Чмошніка.
@@ -753,10 +753,10 @@ August 17, 2022</description>
 	</item>
 	<item>
 		<title>Взяти Україну за три дні.</title>
-		<link>https://teteva.com/podcasts/111/</link>
+		<link>https://gopgop.gop/111/</link>
 		<pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/111/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/111/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/111/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/111/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Якби ми це повідомили, тоді я б втрачав 7 мільярдів доларів на місяць.
@@ -774,10 +774,10 @@ August 16, 2022</description>
 	</item>
 	<item>
 		<title>Кому закони не писані.</title>
-		<link>https://teteva.com/podcasts/110/</link>
+		<link>https://gopgop.gop/110/</link>
 		<pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/110/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/110/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/110/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/110/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Росія і Китай перебувають в ООН незаконно.
@@ -795,10 +795,10 @@ August 15, 2022</description>
 	</item>
 	<item>
 		<title>Точніше, ніж Хаймарс.</title>
-		<link>https://teteva.com/podcasts/109/</link>
+		<link>https://gopgop.gop/109/</link>
 		<pubDate>Mon, 01 Aug 2022 03:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/109/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/109/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/109/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/109/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Були опитані понад 50 свідків.
@@ -817,10 +817,10 @@ August 1, 2022</description>
 	</item>
 	<item>
 		<title>Ні про що.</title>
-		<link>https://teteva.com/podcasts/108/</link>
+		<link>https://gopgop.gop/108/</link>
 		<pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/108/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/108/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/108/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/108/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Ні про що і трохи про Третю світову.
@@ -838,10 +838,10 @@ August 1, 2022</description>
 	</item>
 	<item>
 		<title>Відсмоктати у Ердогана.</title>
-		<link>https://teteva.com/podcasts/107/</link>
+		<link>https://gopgop.gop/107/</link>
 		<pubDate>Sun, 31 Jul 2022 03:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/107/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/107/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/107/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/107/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Херсон, як камень преткновения.
@@ -861,10 +861,10 @@ July 31, 2022</description>
 	</item>
 	<item>
 		<title>Радники проти фашистів.</title>
-		<link>https://teteva.com/podcasts/106/</link>
+		<link>https://gopgop.gop/106/</link>
 		<pubDate>Sat, 30 Jul 2022 04:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/106/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/106/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/106/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/106/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Подоляк.
@@ -882,10 +882,10 @@ July 30, 2022</description>
 	</item>
 	<item>
 		<title>Чи можлива і що змінить ліквідація чи реформа ООН.</title>
-		<link>https://teteva.com/podcasts/105/</link>
+		<link>https://gopgop.gop/105/</link>
 		<pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/105/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/105/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/105/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/105/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Реформа ООН.
@@ -903,10 +903,10 @@ July 30, 2022</description>
 	</item>
 	<item>
 		<title>Здача Чорнобиля, як місток до Києва.</title>
-		<link>https://teteva.com/podcasts/103/</link>
+		<link>https://gopgop.gop/103/</link>
 		<pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/103/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/103/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/103/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/103/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Росія змогла захопити Чорнобиль не випадково.
@@ -924,10 +924,10 @@ July 29, 2022</description>
 	</item>
 	<item>
 		<title>Два слова по Херсону</title>
-		<link>https://teteva.com/podcasts/102/</link>
+		<link>https://gopgop.gop/102/</link>
 		<pubDate>Thu, 28 Jul 2022 04:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/102/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/102/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/102/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/102/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Очевидні речі про рішення рашистів по Херсону.
@@ -945,10 +945,10 @@ July 28, 2022</description>
 	</item>
 	<item>
 		<title>Психопатія Путіна</title>
-		<link>https://teteva.com/podcasts/101/</link>
+		<link>https://gopgop.gop/101/</link>
 		<pubDate>Thu, 28 Jul 2022 03:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/101/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/101/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/101/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/101/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Про публікацію професора, який прагне хайпу.
@@ -967,10 +967,10 @@ July 28, 2022</description>
 	</item>
 	<item>
 		<title>Конституція і Корбан</title>
-		<link>https://teteva.com/podcasts/100/</link>
+		<link>https://gopgop.gop/100/</link>
 		<pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/100/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/100/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/100/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/100/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Відкритий лист до Єрмака про ізраїльське громадянство Корбана.
@@ -990,10 +990,10 @@ July 28, 2022</description>
 	</item>
 	<item>
 		<title>HIMARS або справжні причини відмови у наданні тактичних ракет.</title>
-		<link>https://teteva.com/podcasts/99/</link>
+		<link>https://gopgop.gop/99/</link>
 		<pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/99/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/99/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/99/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/99/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Англосакси відійшли в сторону і залишили нас, Україну?
@@ -1021,10 +1021,10 @@ June 2, 2022</description>
 	</item>
 	<item>
 		<title>Коли завершиться війна. Частина друга.</title>
-		<link>https://teteva.com/podcasts/98/</link>
+		<link>https://gopgop.gop/98/</link>
 		<pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/98/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/98/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/98/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/98/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Політики — не воїни, і вони не на полі бою.
@@ -1053,10 +1053,10 @@ May 31, 2022</description>
 	</item>
 	<item>
 		<title>Прогнози на війну. Частина перша. Боброїдка.</title>
-		<link>https://teteva.com/podcasts/97/</link>
+		<link>https://gopgop.gop/97/</link>
 		<pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/97/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/97/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/97/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/97/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Путін. Йому потрібен час і уроки, які йому дасть реальність.
@@ -1082,10 +1082,10 @@ May 31, 2022</description>
 	</item>
 	<item>
 		<title>Військовий Титан в Україні.</title>
-		<link>https://teteva.com/podcasts/96/</link>
+		<link>https://gopgop.gop/96/</link>
 		<pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/96/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/96/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/96/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/96/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Захід створив в Україні військового титана, який його і погубить.
@@ -1116,10 +1116,10 @@ May 15, 2022</description>
 	</item>
 	<item>
 		<title>Пуповина правобережного військового угрупування РФ в Україні.</title>
-		<link>https://teteva.com/podcasts/95/</link>
+		<link>https://gopgop.gop/95/</link>
 		<pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/95/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/95/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/95/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/95/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>May 11, 2022</description>
@@ -1135,10 +1135,10 @@ May 15, 2022</description>
 	</item>
 	<item>
 		<title>За деревами лісу не видно.</title>
-		<link>https://teteva.com/podcasts/94/</link>
+		<link>https://gopgop.gop/94/</link>
 		<pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/94/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/94/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/94/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/94/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>May 10, 2022</description>
@@ -1154,10 +1154,10 @@ May 15, 2022</description>
 	</item>
 	<item>
 		<title>Ми нашими територіями не торгуємо, інтервʼю Глави ОП. Частина перша.</title>
-		<link>https://teteva.com/podcasts/93/</link>
+		<link>https://gopgop.gop/93/</link>
 		<pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/93/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/93/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/93/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/93/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>May 6, 2022</description>
@@ -1173,10 +1173,10 @@ May 15, 2022</description>
 	</item>
 	<item>
 		<title>Прибрати Путіна.</title>
-		<link>https://teteva.com/podcasts/92/</link>
+		<link>https://gopgop.gop/92/</link>
 		<pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/92/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/92/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/92/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/92/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Бо і Чечня і Сирія, це не тільки далеко - це не зовсім білі люди.
@@ -1194,10 +1194,10 @@ April 28, 2022</description>
 	</item>
 	<item>
 		<title>Скандальновідомий професор Соловєй про ядерний удар по Польщі.</title>
-		<link>https://teteva.com/podcasts/91/</link>
+		<link>https://gopgop.gop/91/</link>
 		<pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/91/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/91/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/91/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/91/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 15, 2022</description>
@@ -1213,10 +1213,10 @@ April 28, 2022</description>
 	</item>
 	<item>
 		<title>Знову трохи про Херсон.</title>
-		<link>https://teteva.com/podcasts/90/</link>
+		<link>https://gopgop.gop/90/</link>
 		<pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/90/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/90/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/90/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/90/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Кремль категорично наполягатиме на збереженні контролю над херсонським правобережжям. 
@@ -1236,10 +1236,10 @@ April 14, 2022</description>
 	</item>
 	<item>
 		<title>Аналізаторам історії. Тим, хто знаходить аналогії методом промацування.</title>
-		<link>https://teteva.com/podcasts/89/</link>
+		<link>https://gopgop.gop/89/</link>
 		<pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/89/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/89/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/89/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/89/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 11, 2022</description>
@@ -1255,10 +1255,10 @@ April 14, 2022</description>
 	</item>
 	<item>
 		<title>Чи можлива війна. Знову та знову. Епатаж.  épater les bourgeois.</title>
-		<link>https://teteva.com/podcasts/88/</link>
+		<link>https://gopgop.gop/88/</link>
 		<pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/88/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/88/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/88/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/88/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 11, 2022</description>
@@ -1274,10 +1274,10 @@ April 14, 2022</description>
 	</item>
 	<item>
 		<title>За деревами лісу не видно.</title>
-		<link>https://teteva.com/podcasts/87/</link>
+		<link>https://gopgop.gop/87/</link>
 		<pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/87/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/87/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/87/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/87/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 9, 2022</description>
@@ -1294,10 +1294,10 @@ April 14, 2022</description>
 	</item>
 	<item>
 		<title>Крик відчаю Головного розвідника РФ до структур ЛГБТ та НАТО.</title>
-		<link>https://teteva.com/podcasts/86/</link>
+		<link>https://gopgop.gop/86/</link>
 		<pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/86/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/86/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/86/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/86/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Наришкін назвав російську спецоперацію в Україні точкою неповернення. 
@@ -1315,10 +1315,10 @@ April 7, 2022</description>
 	</item>
 	<item>
 		<title>Передок Фаріди і екзистенційний вибір Путіна-Слуцького.</title>
-		<link>https://teteva.com/podcasts/85/</link>
+		<link>https://gopgop.gop/85/</link>
 		<pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/85/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/85/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/85/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/85/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 6, 2022</description>
@@ -1334,10 +1334,10 @@ April 7, 2022</description>
 	</item>
 	<item>
 		<title>Чому Путін копіює кроки Гітлера, як низькопробний злочинець імітатор.</title>
-		<link>https://teteva.com/podcasts/84/</link>
+		<link>https://gopgop.gop/84/</link>
 		<pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/84/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/84/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/84/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/84/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Остаточне вирішення українського питання. 
@@ -1355,10 +1355,10 @@ April 5, 2022</description>
 	</item>
 	<item>
 		<title>Про що вони думали? Частина перша. Психічний стан Путіна.</title>
-		<link>https://teteva.com/podcasts/83/</link>
+		<link>https://gopgop.gop/83/</link>
 		<pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/83/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/83/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/83/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/83/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Сенсаційна інформація про стан здоровя путіна. 
@@ -1377,10 +1377,10 @@ April 3, 2022</description>
 	</item>
 	<item>
 		<title>Як готувалась війна. Чалий.</title>
-		<link>https://teteva.com/podcasts/82/</link>
+		<link>https://gopgop.gop/82/</link>
 		<pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/82/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/82/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/82/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/82/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>April 1, 2022</description>
@@ -1396,10 +1396,10 @@ April 3, 2022</description>
 	</item>
 	<item>
 		<title>Нагляд за Україною. Нагляд Росією в рамках угоди про гарантії безпеки.</title>
-		<link>https://teteva.com/podcasts/81/</link>
+		<link>https://gopgop.gop/81/</link>
 		<pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/81/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/81/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/81/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/81/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>March 31, 2022</description>
@@ -1415,10 +1415,10 @@ April 3, 2022</description>
 	</item>
 	<item>
 		<title>Троянські коні Росії у складі української переговорної групи.</title>
-		<link>https://teteva.com/podcasts/80/</link>
+		<link>https://gopgop.gop/80/</link>
 		<pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/80/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/80/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/80/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/80/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Чалий, головний троянський кінь Росії у складі Української переговорної групи.
@@ -1436,10 +1436,10 @@ March 30, 2022</description>
 	</item>
 	<item>
 		<title>Російська агентура, як головна бойова одиниця Кремля. Як здали Херсон.</title>
-		<link>https://teteva.com/podcasts/79/</link>
+		<link>https://gopgop.gop/79/</link>
 		<pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/79/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/79/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/79/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/79/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>March 29, 2022</description>
@@ -1455,10 +1455,10 @@ March 30, 2022</description>
 	</item>
 	<item>
 		<title>Путін, як військовий злочинець, чому це сказано і чому це доводиться поснювати.</title>
-		<link>https://teteva.com/podcasts/78/</link>
+		<link>https://gopgop.gop/78/</link>
 		<pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/78/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/78/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/78/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/78/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>Жорстка риторика Байдена в Польщі, чи означає вона відхід від політики балансування щодо Росії?
@@ -1480,10 +1480,10 @@ March 28, 2022</description>
 	</item>
 	<item>
 		<title>Майстер Путін і Маргарита Петрівна Кабаєва.</title>
-		<link>https://teteva.com/podcasts/77/</link>
+		<link>https://gopgop.gop/77/</link>
 		<pubDate>Sun, 27 Mar 2022 06:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/77/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/77/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/77/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/77/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>March 27, 2022</description>
@@ -1499,10 +1499,10 @@ March 28, 2022</description>
 	</item>
 	<item>
 		<title>Сухопутний коридор в Крим.</title>
-		<link>https://teteva.com/podcasts/76/</link>
+		<link>https://gopgop.gop/76/</link>
 		<pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/76/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/76/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/76/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/76/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>March 27, 2022</description>
@@ -1518,10 +1518,10 @@ March 28, 2022</description>
 	</item>
 	<item>
 		<title>Затяжна війна? Російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє.</title>
-		<link>https://teteva.com/podcasts/75/</link>
+		<link>https://gopgop.gop/75/</link>
 		<pubDate>Sat, 26 Mar 2022 07:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/75/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/75/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/75/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/75/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>March 26, 2022</description>
@@ -1538,10 +1538,10 @@ March 28, 2022</description>
 	</item>
 	<item>
 		<title>Ні про шо, частина друга. Операція Глянець.</title>
-		<link>https://teteva.com/podcasts/74/</link>
+		<link>https://gopgop.gop/74/</link>
 		<pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/74/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/74/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/74/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/74/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>February 21, 2022</description>
@@ -1557,10 +1557,10 @@ March 28, 2022</description>
 	</item>
 	<item>
 		<title>Любов або війна. Гонець Путіна &#8211; Карасьов.</title>
-		<link>https://teteva.com/podcasts/73/</link>
+		<link>https://gopgop.gop/73/</link>
 		<pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/73/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/73/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/73/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/73/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>February 17, 2022</description>
@@ -1577,10 +1577,10 @@ March 28, 2022</description>
 	</item>
 	<item>
 		<title>Романтична історія моряка і Рози. От нєх дєлать. Благовіщенське сьогодні, номер 23.</title>
-		<link>https://teteva.com/podcasts/72/</link>
+		<link>https://gopgop.gop/72/</link>
 		<pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-		<comments>https://teteva.com/podcasts/72/#respond</comments>
-		<wfw:commentRss>https://teteva.com/podcasts/72/feed/</wfw:commentRss>
+		<comments>https://gopgop.gop/72/#respond</comments>
+		<wfw:commentRss>https://gopgop.gop/72/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		<category><![CDATA[Uncategorized]]></category>
 		<description>От нєх дєлать про любов. Одним словом, Рух - це здорово, а сало - дорожає.
