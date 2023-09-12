@@ -5,10 +5,9 @@
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<link>https://gopgop.gop/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Mon, 19 Jun 2023 21:43:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Sep 2023 08:29:14 +0000</lastBuildDate>
 	<language>uk</language>
 	<generator>Blubrry PowerPress/10.2.4</generator>
-		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
 	<itunes:author>Teteva &amp; Тетева</itunes:author>
 	<itunes:explicit>true</itunes:explicit>
@@ -16,7 +15,7 @@
 	<itunes:type>episodic</itunes:type>
 	<itunes:owner>
 		<itunes:name>Teteva &amp; Тетева</itunes:name>
-		<itunes:email>aaron@teteva.com</itunes:email>
+		<itunes:email>tetevausa@gmail.com</itunes:email>
 	</itunes:owner>
 	<copyright>www.gopgop.gop | Teteva &amp; Тетева</copyright>
 	<podcast:license>www.gopgop.gop | Teteva &amp; Тетева</podcast:license>
@@ -135,230 +134,233 @@
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>teteva &amp; тетева</itunes:author>
 		</item>
-	<item>
-		<title>Полк Каліновського в Бєларусі. Кінець режиму? Kastuś Kalinoŭski Regiment.</title>
-		<link>https://gopgop.gop/141/</link>
-		<pubDate>Sun, 18 Jun 2023 12:19:25 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Два можливих сценарії розвитку подій. Як може розгортатися ситуація у випадку якщо бєларуси з бойовим досвідом зявляться на півдні Бєларусі. | Two possible scenarios for the development of events. How can the situation unfold if Belarusians with combat experience appear in the south of Belarus?</description>
-		<content:encoded><![CDATA[<p>Як може розгортатися ситуація у випадку, якщо бєларуси з бойовим досвідом зявляться на півдні Бєларусі.</p>
-<p>Два можливих сценарії реакції Кремля.</p>
-<p>Наприклад, Кремль робить вигляд, що нічого не сталося. І тоді Полк Каліновського розгортає свою діяльність в Бєларусі. Це озброєні і досвідчені люди. Або…</p>
-<p>Населення Бєларусі, як ми знаємо, не настільки жорстко зомбоване пропагандою. І взагалі, дуже сильно ментально відрізняється від так званих &#8220;росіян&#8221;.</p>
-<p>Полк Каліновського може розпочати виключно з диверсійної діяльності. Наприклад з підриву ключових залізничних мостів. А їх не так багато. В такому разі Кремль не зможе перекинути необхідні військові зʼєднання на допомогу Лукашенку.</p>
-<p>В залежності від того, як піде справа, реальним сценарієм є, наприклад, похід на Мінськ. Або створення такої загрози. Щоб спонукати Лукашенка і Кремль до певних дій. </p>
-<p>Інший сценарій походить від розуміння наслідків першого сценарію. </p>
-<p>As of March 2022, it was reported that more than a thousand Belarusians have applied to join the unit. According to its own statements, the battalion is not incorporated into the International Legion of Territorial Defense of Ukraine in order to preserve greater autonomy. Belarusian volunteers in the International Legion are organised in the Pahonia Regiment.</p>
-<p>The unit is named after the Polish-Belarusian national hero Kastus Kalinowski, who was a leader of the January Uprising in 1863 against the Russian Empire in Belarus.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/141.mp3" length="19706952" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/141.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>141</itunes:episode>
-		<podcast:episode>141</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>20:32</itunes:duration>
-	</item>
-	<item>
-		<title>Провал і тріумф спецслужб. План Путіна.</title>
-		<link>https://gopgop.gop/139/</link>
-		<pubDate>Sun, 30 Apr 2023 09:00:06 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>План Герасімова чи план Путіна.</description>
-		<content:encoded><![CDATA[<p>Побутує дві помилкові думки: про план Путіна і про провал срецслужб РФ.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/139.mp3" length="11936254" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/139.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>139</itunes:episode>
-		<podcast:episode>139</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>12:26</itunes:duration>
-	</item>
-	<item>
-		<title>Аналіз і прогноз.</title>
-		<link>https://gopgop.gop/138/</link>
-		<pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Частина перша, вступна.</description>
-		<content:encoded><![CDATA[<p>Херсон і нові красні лінії Кремля. Вступ.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/138.mp3" length="9777497" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/138.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>138</itunes:episode>
-		<podcast:episode>138</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>10:11</itunes:duration>
-	</item>
-	<item>
-		<title>Огляд новин.</title>
-		<link>https://gopgop.gop/137/</link>
-		<pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Маск, мобілізаційний ресурс РФ та інше.</description>
-		<content:encoded><![CDATA[<p>Огляд та коментарі.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/137.mp3" length="9844370" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/137.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>137</itunes:episode>
-		<podcast:episode>137</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>10:15</itunes:duration>
-	</item>
-	<item>
-		<title>Прибрати Путіна. Місія заради миру.</title>
-		<link>https://gopgop.gop/136/</link>
-		<pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Фізичне знищення Путіна як наслідок спроб зберегти йому лице.</description>
-		<content:encoded><![CDATA[<p>Це вже не протистояння з НАТО. НАТО &#8211; це всього навсього бойовий підрозділ цивілізованого світу.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/136.mp3" length="11056452" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/136.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>136</itunes:episode>
-		<podcast:episode>136</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>11:31</itunes:duration>
-	</item>
-	<item>
-		<title>Кримський міст. Версії.</title>
-		<link>https://gopgop.gop/135/</link>
-		<pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Одна з версій, якої притримується і Кремль, і Україна, чомусь.</description>
-		<content:encoded><![CDATA[<p>Для здійснення підриву вантажного автомобіля потрібен був безпосередній візуальний контроль. Це аргумент проти версії, що це було під силу українським спеціалістам.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/135.mp3" length="6783237" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/135.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>135</itunes:episode>
-		<podcast:episode>135</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>7:04</itunes:duration>
-	</item>
-	<item>
-		<title>Кримський міст. Вступ.</title>
-		<link>https://gopgop.gop/134/</link>
-		<pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>The New York Times про ситуацію.</description>
-		<content:encoded><![CDATA[<p>Те, що The New York Times подає як анонімну заяву українського чиновника, УП подає як доконаний факт.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/134.mp3" length="5037840" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/134.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>134</itunes:episode>
-		<podcast:episode>134</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>5:15</itunes:duration>
-	</item>
-	<item>
-		<title>Геостратегія по аматорськи.</title>
-		<link>https://gopgop.gop/133/</link>
-		<pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Правобережжя Херсонщини.</description>
-		<content:encoded><![CDATA[<p>Ігри геостратегів-аматорів ОП, які мало не призвела до втрати Півдня. В двох словах.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/133.mp3" length="7189510" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/133.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>133</itunes:episode>
-		<podcast:episode>133</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>7:29</itunes:duration>
-	</item>
-	<item>
-		<title>Бліц-криг.</title>
-		<link>https://gopgop.gop/132/</link>
-		<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>План блискавичного закінчення війни.</description>
-		<content:encoded><![CDATA[<p>Основні бої знову переміщаються в медіа простір, в інформаційний простір. Єдине місце, де Кремль уміє вести бойові дії. Закінчення війни під загрозою застосування ядерної зброї.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/132.mp3" length="13540802" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/132.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>132</itunes:episode>
-		<podcast:episode>132</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>14:06</itunes:duration>
-	</item>
-	<item>
-		<title>Чмошнік. Частина перша.</title>
-		<link>https://gopgop.gop/131/</link>
-		<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>По гарячих слідах виступу Кремлівського Чмошніка.</description>
-		<content:encoded><![CDATA[<p>Це вступний випуск. Щодо виступу зроблю більш розширену частину другу.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/131.mp3" length="6239472" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/131.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>131</itunes:episode>
-		<podcast:episode>131</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>6:30</itunes:duration>
-	</item>
-	<item>
-		<title>Колаборанти.</title>
-		<link>https://gopgop.gop/130/</link>
-		<pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Колаборанти в Ізюмі вже підняли голову.</description>
-		<content:encoded><![CDATA[<p>Чому тьощин зять, який з незрозумілої причини очолює Верховну Раду, по суті очолює Раду &#8220;Ждунів&#8221;. Проблема колаборантів вирішується простими змінами до Кодексу про адміністративні правопорушення. Описати діяльність, яка має ознаки спрівпраці з ворогом, не являється проблемою з точки зору юридичної техніки. Проблемою є те, що комусь це не потрібно.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/130.mp3" length="11953811" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/130.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>130</itunes:episode>
-		<podcast:episode>130</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>12:27</itunes:duration>
-	</item>
-	<item>
-		<title>Сенсація. Майже. Козак.</title>
-		<link>https://gopgop.gop/129/</link>
-		<pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-		<guid isPermaLink="false"></guid>
-		<category><![CDATA[Uncategorized]]></category>
-		<description>Свіжий погляд на статтю в Reuters про українську підкилимну групу.</description>
-		<content:encoded><![CDATA[<p>Один з варіантів розвитку подій припускає так званого &#8220;прєємніка&#8221; Путіна. Підкилимні бульдоги Кремля співпрацюють з підкилимними істотами української політики.</p>
-]]></content:encoded>
-		<enclosure url="https://media.blubrry.com/2862333/content.blubrry.com/2862333/129.mp3" length="1501904" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/129.jpg" />
-		<itunes:season>1</itunes:season>
-		<podcast:season>1</podcast:season>
-		<itunes:episode>129</itunes:episode>
-		<podcast:episode>129</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>1:34</itunes:duration>
-	</item>
+		<item>
+			<title>141: Полк Каліновського в Бєларусі. Кінець режиму? Kastuś Kalinoŭski Regiment.</title>
+			<itunes:title>Полк Каліновського в Бєларусі. Кінець режиму? Kastuś Kalinoŭski Regiment.</itunes:title>
+			<pubDate>Sun, 18 Jun 2023 14:00:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b2fb4b99-13f3-44ad-a5fb-2f111275c881]]></guid>
+			<link><![CDATA[https://gopgop.gop/141]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/1/5/d/3/15d36cec2b6396575f2e77a3093c12a1/141.jpg" />
+			<description><![CDATA[<p>Як може розгортатися ситуація у випадку, якщо бєларуси з бойовим досвідом <strong>з'являться на півдні Бєларусі</strong>.</p> <p>Два можливих сценарії <strong>реакції Кремля</strong>.</p> <p>Наприклад, Кремль робить вигляд, що нічого не сталося. І тоді Полк Каліновського розгортає свою діяльність в Бєларусі. Це озброєні і досвідчені люди.</p> <p>Або ж… </p> <p>Населення Бєларусі, як ми знаємо, не настільки жорстко зомбоване пропагандою. І взагалі, дуже сильно ментально відрізняється від так званих “росіян”.</p> <p>Полк Каліновського може розпочати виключно з <strong>диверсійної діяльності</strong>. Наприклад з підриву ключових залізничних мостів. А їх не так багато. В такому разі Кремль <strong>не зможе</strong> перекинути необхідні військові зʼєднання на допомогу Лукашенку.</p> <p>В залежності від того, як піде справа, реальним сценарієм є, наприклад, <strong>похід на Мінськ</strong>. Або створення такої загрози. Щоб спонукати Лукашенка і Кремль до певних дій.</p> <p>Інший сценарій походить від розуміння наслідків першого сценарію.</p> <p>As of March 2022, it was reported that more than a thousand Belarusians have applied to join the unit.</p> <p>According to its own statements, the battalion is not incorporated into the International Legion of Territorial Defense of Ukraine in order to preserve greater autonomy. Belarusian volunteers in the International Legion are organised in the Pahonia Regiment.</p> <p>The unit is named after the Polish-Belarusian national hero Kastus Kalinowski, who was a leader of the January Uprising in 1863 against the Russian Empire in Belarus.</p>]]></description>
+			<content:encoded><![CDATA[<p>Як може розгортатися ситуація у випадку, якщо бєларуси з бойовим досвідом з'являться на півдні Бєларусі.</p> <p>Два можливих сценарії реакції Кремля.</p> <p>Наприклад, Кремль робить вигляд, що нічого не сталося. І тоді Полк Каліновського розгортає свою діяльність в Бєларусі. Це озброєні і досвідчені люди.</p> <p>Або ж… </p> <p>Населення Бєларусі, як ми знаємо, не настільки жорстко зомбоване пропагандою. І взагалі, дуже сильно ментально відрізняється від так званих “росіян”.</p> <p>Полк Каліновського може розпочати виключно з диверсійної діяльності. Наприклад з підриву ключових залізничних мостів. А їх не так багато. В такому разі Кремль не зможе перекинути необхідні військові зʼєднання на допомогу Лукашенку.</p> <p>В залежності від того, як піде справа, реальним сценарієм є, наприклад, похід на Мінськ. Або створення такої загрози. Щоб спонукати Лукашенка і Кремль до певних дій.</p> <p>Інший сценарій походить від розуміння наслідків першого сценарію.</p> <p>As of March 2022, it was reported that more than a thousand Belarusians have applied to join the unit.</p> <p>According to its own statements, the battalion is not incorporated into the International Legion of Territorial Defense of Ukraine in order to preserve greater autonomy. Belarusian volunteers in the International Legion are organised in the Pahonia Regiment.</p> <p>The unit is named after the Polish-Belarusian national hero Kastus Kalinowski, who was a leader of the January Uprising in 1863 against the Russian Empire in Belarus.</p>]]></content:encoded>
+			<enclosure length="19785426" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/141.mp3?dest-id=4140696" />
+			<itunes:duration>20:32</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Як може розгортатися ситуація у випадку, якщо бєларуси з бойовим досвідом з'являться на півдні Бєларусі. Два можливих сценарії реакції...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>141</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>139: Провал і тріумф спецслужб. План Путіна.</title>
+			<itunes:title>Провал і тріумф спецслужб. План Путіна.</itunes:title>
+			<pubDate>Sun, 30 Apr 2023 14:00:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6ac487b6-3b5b-4f0e-8da0-134f02089a0f]]></guid>
+			<link><![CDATA[https://gopgop.gop/139]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/3/8/2/9/382938d43113533b16c3140a3186d450/139.jpg" />
+			<description><![CDATA[<p>Побутує дві <strong>помилкові думки</strong>: про <em><strong>план Путіна</strong></em> і про <em>провал срецслужб РФ</em>.</p> <p>План Герасімова чи план Путіна.</p>]]></description>
+			<content:encoded><![CDATA[<p>Побутує дві помилкові думки: про <em>план Путіна</em> і про <em>провал срецслужб РФ</em>.</p> <p>План Герасімова чи план Путіна.</p>]]></content:encoded>
+			<enclosure length="12024068" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/139.mp3?dest-id=4140696" />
+			<itunes:duration>12:27</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Побутує дві помилкові думки: про план Путіна і про провал срецслужб РФ. План Герасімова чи план Путіна.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>139</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>138: Аналіз і прогноз.</title>
+			<itunes:title>Аналіз і прогноз.</itunes:title>
+			<pubDate>Sun, 13 Nov 2022 12:00:49 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[15446fa1-c54f-45aa-9ce7-6baca1480d1e]]></guid>
+			<link><![CDATA[https://gopgop.gop/138]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/a/6/2/7/a627aaa364dca30127a2322813b393ee/138.jpg" />
+			<description><![CDATA[Херсон і нові красні лінії Кремля. Вступ.]]></description>
+			<content:encoded><![CDATA[Херсон і нові красні лінії Кремля. Вступ.]]></content:encoded>
+			<enclosure length="9888097" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/138.mp3?dest-id=4140696" />
+			<itunes:duration>10:12</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Херсон і нові красні лінії Кремля. Вступ.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>138</itunes:episode>
+			<itunes:episodeType>trailer</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>137: Огляд новин.</title>
+			<itunes:title>Огляд новин.</itunes:title>
+			<pubDate>Sat, 15 Oct 2022 12:00:16 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[21660112-58ee-4872-9b24-a5bf98b1cac1]]></guid>
+			<link><![CDATA[https://gopgop.gop/137]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/1/7/0/5/17058d5cba77c905e55e3c100dce7605/137.jpg" />
+			<description><![CDATA[<p>Маск, мобілізаційний ресурс РФ та інше.</p> <p><em>Огляд та коментарі.</em></p>]]></description>
+			<content:encoded><![CDATA[<p>Маск, мобілізаційний ресурс РФ та інше.</p> <p><em>Огляд та коментарі.</em></p>]]></content:encoded>
+			<enclosure length="9898417" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/137.mp3?dest-id=4140696" />
+			<itunes:duration>10:16</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Маск, мобілізаційний ресурс РФ та інше. Огляд та коментарі.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>137</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>136: Прибрати Путіна. Місія заради миру.</title>
+			<itunes:title>Прибрати Путіна. Місія заради миру.</itunes:title>
+			<pubDate>Thu, 13 Oct 2022 12:00:55 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2ab450ae-e60e-4bc4-af95-6cd00f094d31]]></guid>
+			<link><![CDATA[https://gopgop.gop/136]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/8/b/6/a/8b6a04885e05da1127a2322813b393ee/136.jpg" />
+			<description><![CDATA[<p>Це вже не протистояння з НАТО. <strong>НАТО</strong> – це всього навсього бойовий підрозділ <strong>цивілізованого світу</strong>.</p>]]></description>
+			<content:encoded><![CDATA[<p>Це вже не протистояння з НАТО. НАТО – це всього навсього бойовий підрозділ цивілізованого світу.</p>]]></content:encoded>
+			<enclosure length="11117338" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/136.mp3?dest-id=4140696" />
+			<itunes:duration>11:32</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Це вже не протистояння з НАТО. НАТО – це всього навсього бойовий підрозділ цивілізованого світу.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>136</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>133: Геостратегія по аматорськи.</title>
+			<itunes:title>Геостратегія по аматорськи.</itunes:title>
+			<pubDate>Mon, 10 Oct 2022 13:00:06 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6dc43ca9-75eb-4152-abe9-db8b7eb3380b]]></guid>
+			<link><![CDATA[https://gopgop.gop/132]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/b/4/b/9/b4b98b55117555ce27a2322813b393ee/133.jpg" />
+			<description><![CDATA[<p><strong>Ігри</strong> геостратегів-аматорів ОП, які мало не призвела до <strong>втрати Півдня</strong>. В двох словах.</p>]]></description>
+			<content:encoded><![CDATA[<p>Ігри геостратегів-аматорів ОП, які мало не призвела до втрати Півдня. В двох словах.</p>]]></content:encoded>
+			<enclosure length="7270416" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/133.mp3?dest-id=4140696" />
+			<itunes:duration>07:30</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Ігри геостратегів-аматорів ОП, які мало не призвела до втрати Півдня. В двох словах.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>133</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>135: Кримський міст. Версії.</title>
+			<itunes:title>Кримський міст. Версії.</itunes:title>
+			<pubDate>Mon, 10 Oct 2022 12:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[23b1b807-a0cb-4819-8bb8-bc279115e9be]]></guid>
+			<link><![CDATA[https://gopgop.gop/135]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/6/4/0/7/64070bd71936f501a04421dee9605cbd/135.jpg" />
+			<description><![CDATA[<p>Для здійснення <strong>підриву вантажного автомобіля</strong> потрібен був <em>безпосередній візуальний контроль</em>.</p> <p>Це аргумент проти версії, що це було під силу українським спеціалістам. <em>І все ж.</em></p>]]></description>
+			<content:encoded><![CDATA[<p>Для здійснення підриву вантажного автомобіля потрібен був <em>безпосередній візуальний контроль</em>.</p> <p>Це аргумент проти версії, що це було під силу українським спеціалістам. <em>І все ж.</em></p>]]></content:encoded>
+			<enclosure length="6883576" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/135.mp3?dest-id=4140696" />
+			<itunes:duration>07:04</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Для здійснення підриву вантажного автомобіля потрібен був безпосередній візуальний контроль. Це аргумент проти версії, що це було під...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>135</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>134: Кримський міст. Вступ.</title>
+			<itunes:title>Кримський міст. Вступ.</itunes:title>
+			<pubDate>Sun, 09 Oct 2022 13:00:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c92c8814-dd21-45dd-ac46-f918240a9126]]></guid>
+			<link><![CDATA[https://gopgop.gop/134]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/4/1/c/8/41c80c8ee867e28c27a2322813b393ee/134.jpg" />
+			<description><![CDATA[<p>Те, що <strong>The New York Times</strong> подає <em>як анонімну заяву</em> українського чиновника, <strong>УП подає як доконаний факт</strong>.</p>]]></description>
+			<content:encoded><![CDATA[<p>Те, що The New York Times подає <em>як анонімну заяву</em> українського чиновника, УП подає як доконаний факт.</p>]]></content:encoded>
+			<enclosure length="5174371" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/134.mp3?dest-id=4140696" />
+			<itunes:duration>05:15</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Те, що The New York Times подає як анонімну заяву українського чиновника, УП подає як доконаний факт.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>134</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>132: Бліц-криг.</title>
+			<itunes:title>Бліц-криг.</itunes:title>
+			<pubDate>Wed, 21 Sep 2022 14:00:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5b2afb11-d3d3-4e66-9a42-1a1a8fd61ae2]]></guid>
+			<link><![CDATA[https://gopgop.gop/132]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/6/5/2/c/652ccb1d3d04d336bafc7308ab683e82/132.jpg" />
+			<description><![CDATA[<p>Основні бої знову переміщаються в медіа простір, в <strong>інформаційний простір</strong>.</p> <p><em><strong>Єдине місце</strong></em>, де Кремль уміє вести бойові дії.</p> <p>Закінчення війни <strong>під загрозою застосування ядерної зброї</strong>.</p>]]></description>
+			<content:encoded><![CDATA[<p>Основні бої знову переміщаються в медіа простір, в інформаційний простір.</p> <p><em>Єдине місце</em>, де Кремль уміє вести бойові дії.</p> <p>Закінчення війни під загрозою застосування ядерної зброї.</p>]]></content:encoded>
+			<enclosure length="13596199" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/132.mp3?dest-id=4140696" />
+			<itunes:duration>14:07</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Основні бої знову переміщаються в медіа простір, в інформаційний простір. Єдине місце, де Кремль уміє вести бойові дії. Закінчення війни...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>132</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>131: Чмошнік. Частина перша.</title>
+			<itunes:title>Чмошнік. Частина перша.</itunes:title>
+			<pubDate>Wed, 21 Sep 2022 12:00:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b15ed247-ad46-4195-93a4-cb2a070e8050]]></guid>
+			<link><![CDATA[https://gopgop.gop/131]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/b/9/4/2b942263ac8e10eb5f2e77a3093c12a1/131.jpg" />
+			<description><![CDATA[<p>Це вступний випуск. <em>Щодо виступу зроблю більш розширену</em> <strong>частину другу</strong>.</p>]]></description>
+			<content:encoded><![CDATA[<p>Це вступний випуск. <em>Щодо виступу зроблю більш розширену</em> частину другу.</p>]]></content:encoded>
+			<enclosure length="6290736" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/131.mp3?dest-id=4140696" />
+			<itunes:duration>06:30</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Це вступний випуск. Щодо виступу зроблю більш розширену частину другу.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>131</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>130: Колаборанти.</title>
+			<itunes:title>Колаборанти.</itunes:title>
+			<pubDate>Mon, 19 Sep 2022 13:00:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b3df7bfb-840b-446c-8fd5-155c4a64b9f6]]></guid>
+			<link><![CDATA[https://gopgop.gop/130]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/3/a/8/b/3a8bf8d529b245efa04421dee9605cbd/130.jpg" />
+			<description><![CDATA[<p>Чому <strong>тьощин зять</strong>, який з незрозумілої причини очолює Верховну Раду, по суті <strong>очолює</strong> <strong>Раду “Ждунів”</strong>.</p> <p>Проблема колаборантів вирішується простими змінами до Кодексу про адміністративні правопорушення. Описати <strong>діяльність</strong>, <strong>яка має ознаки спрівпраці з ворогом</strong>, не являється проблемою з точки зору юридичної техніки.</p> <p><em>Проблемою є те, що комусь це не потрібно</em>.</p>]]></description>
+			<content:encoded><![CDATA[<p>Чому тьощин зять, який з незрозумілої причини очолює Верховну Раду, по суті очолює Раду “Ждунів”.</p> <p>Проблема колаборантів вирішується простими змінами до Кодексу про адміністративні правопорушення. Описати діяльність, яка має ознаки спрівпраці з ворогом, не являється проблемою з точки зору юридичної техніки.</p> <p><em>Проблемою є те, що комусь це не потрібно</em>.</p>]]></content:encoded>
+			<enclosure length="12046159" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/130.mp3?dest-id=4140696" />
+			<itunes:duration>12:28</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Чому тьощин зять, який з незрозумілої причини очолює Верховну Раду, по суті очолює Раду “Ждунів”. Проблема колаборантів вирішується...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>130</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
+		<item>
+			<title>129: Сенсація. Майже. Козак.</title>
+			<itunes:title>Сенсація. Майже. Козак.</itunes:title>
+			<pubDate>Fri, 16 Sep 2022 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d4f168df-de53-4d74-b8be-89ff4d4530ea]]></guid>
+			<link><![CDATA[https://gopgop.gop/129]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/5/c/8/d/5c8dd21aa6d9153de5bbc093207a2619/129.jpg" />
+			<description><![CDATA[<p>Один з варіантів розвитку подій припускає так званого <strong>“прєємніка”</strong> Путіна.</p> <p>Підкилимні <strong>бульдоги Кремля</strong> співпрацюють <strong>з підкилимними істотами</strong> української політики.</p>]]></description>
+			<content:encoded><![CDATA[<p>Один з варіантів розвитку подій припускає так званого “прєємніка” Путіна.</p> <p>Підкилимні бульдоги Кремля співпрацюють з підкилимними істотами української політики.</p>]]></content:encoded>
+			<enclosure length="1591429" type="audio/mpeg" url="https://traffic.libsyn.com/secure/01cf255c-e88b-4ad7-96a1-2b8fba3c505d/129.mp3?dest-id=4140696" />
+			<itunes:duration>01:34</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Один з варіантів розвитку подій припускає так званого “прєємніка” Путіна. Підкилимні бульдоги Кремля співпрацюють з підкилимними...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>129</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>teteva &amp; тетева</itunes:author>
+		</item>
 	<item>
 		<title>Знову ні про що.</title>
 		<link>https://gopgop.gop/128/</link>
