@@ -770,7 +770,8 @@
 			<itunes:author>teteva &amp; тетева</itunes:author>
 		</item>
 	<item>
-		<title>Точніше, ніж Хаймарс.</title>
+		<title>109: Точніше, ніж Хаймарс.</title>
+		<itunes:title>Точніше, ніж Хаймарс.</itunes:title>
 		<link>https://gopgop.gop/109/</link>
 		<pubDate>Mon, 01 Aug 2022 03:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[5194cefc-97ef-41b9-9c8b-a92dd734190d]]></guid>
@@ -780,14 +781,15 @@ August 1, 2022</description>
 <p>Були опитані понад 50 свідків&#8230; Про що? Як ракета летіла?</p>
 ]]></content:encoded>
 		<enclosure url="https://traffic.libsyn.com/secure/ab5435aa-299a-47a0-b11c-5f9412e4859b/109.mp3?dest-id=4237603" length="4239955" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/109.jpg" />
+		<itunes:image href="https://img.gopgop.gop/109.jpg" />
 		<itunes:season>1</itunes:season>
 		<itunes:episode>109</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>4:25</itunes:duration>
 	</item>
 	<item>
-		<title>Ні про що.</title>
+		<title>108: Ні про що.</title>
+		<itunes:title>Ні про що.</itunes:title>
 		<link>https://gopgop.gop/108/</link>
 		<pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[2c72d42c-fad4-4e9b-817c-237ca6f4d74b]]></guid>
@@ -796,14 +798,15 @@ August 1, 2022</description>
 		<content:encoded><![CDATA[<p>Чергова сенсація і Третя світова на Тайвані.</p>
 ]]></content:encoded>
 		<enclosure url="https://traffic.libsyn.com/secure/ab5435aa-299a-47a0-b11c-5f9412e4859b/108.mp3?dest-id=4237603" length="9543022" type="audio/mpeg" />
-			<itunes:image href="https://img.gopgop.gop/108.jpg" />
+		<itunes:image href="https://img.gopgop.gop/108.jpg" />
 		<itunes:season>1</itunes:season>
 		<itunes:episode>108</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>9:56</itunes:duration>
 	</item>
 	<item>
-		<title>Відсмоктати у Ердогана.</title>
+		<title>107: Відсмоктати у Ердогана.</title>
+		<itunes:title>Відсмоктати у Ердогана.</itunes:title>
 		<link>https://gopgop.gop/107/</link>
 		<pubDate>Sun, 31 Jul 2022 03:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[06e61a62-68fa-4a11-a388-09890b5817f6]]></guid>
@@ -821,7 +824,8 @@ July 31, 2022</description>
 		<itunes:duration>7:41</itunes:duration>
 	</item>
 	<item>
-		<title>Радники проти фашистів.</title>
+		<title>106: Радники проти фашистів.</title>
+		<itunes:title>Радники проти фашистів.</itunes:title>
 		<link>https://gopgop.gop/106/</link>
 		<pubDate>Sat, 30 Jul 2022 04:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[97394f7a-f710-4d61-bebd-a0992c230d74]]></guid>
@@ -837,7 +841,8 @@ July 30, 2022</description>
 		<itunes:duration>8:00</itunes:duration>
 	</item>
 	<item>
-		<title>Чи можлива і що змінить ліквідація чи реформа ООН.</title>
+		<title>105: Чи можлива і що змінить ліквідація чи реформа ООН.</title>
+		<itunes:title>Чи можлива і що змінить ліквідація чи реформа ООН.</itunes:title>
 		<link>https://gopgop.gop/105/</link>
 		<pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[8d45d177-2255-4dc3-88f9-b1a0f707f95a]]></guid>
@@ -853,7 +858,8 @@ July 30, 2022</description>
 		<itunes:duration>5:40</itunes:duration>
 	</item>
 	<item>
-		<title>Здача Чорнобиля, як місток до Києва.</title>
+		<title>103: Здача Чорнобиля, як місток до Києва.</title>
+		<itunes:title>Здача Чорнобиля, як місток до Києва.</itunes:title>
 		<link>https://gopgop.gop/103/</link>
 		<pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[d24864d6-501f-4c5c-9b53-e1074b0d7960]]></guid>
@@ -869,7 +875,8 @@ July 29, 2022</description>
 		<itunes:duration>2:47</itunes:duration>
 	</item>
 	<item>
-		<title>Два слова по Херсону</title>
+		<title>102: Два слова по Херсону.</title>
+		<itunes:title>Два слова по Херсону.</itunes:title>
 		<link>https://gopgop.gop/102/</link>
 		<pubDate>Thu, 28 Jul 2022 04:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[6fce8057-cfbb-4e7c-8c65-ee579301c2e8]]></guid>
@@ -885,7 +892,8 @@ July 28, 2022</description>
 		<itunes:duration>3:00</itunes:duration>
 	</item>
 	<item>
-		<title>Психопатія Путіна</title>
+		<title>101: Психопатія Путіна.</title>
+		<itunes:title>Психопатія Путіна.</itunes:title>
 		<link>https://gopgop.gop/101/</link>
 		<pubDate>Thu, 28 Jul 2022 03:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[a36112a9-cba8-4091-9fe6-6d0bc931c2ae]]></guid>
@@ -902,7 +910,8 @@ July 28, 2022</description>
 		<itunes:duration>3:16</itunes:duration>
 	</item>
 	<item>
-		<title>Конституція і Корбан</title>
+		<title>100: Конституція і Корбан.</title>
+		<itunes:title>Конституція і Корбан.</itunes:title>
 		<link>https://gopgop.gop/100/</link>
 		<pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[265d60ef-2721-4c2f-8bdb-4033b3782a16]]></guid>
@@ -920,7 +929,8 @@ July 28, 2022</description>
 		<itunes:duration>2:26</itunes:duration>
 	</item>
 	<item>
-		<title>HIMARS або справжні причини відмови у наданні тактичних ракет.</title>
+		<title>99: HIMARS або справжні причини відмови у наданні тактичних ракет.</title>
+		<itunes:title>HIMARS або справжні причини відмови у наданні тактичних ракет.</itunes:title>
 		<link>https://gopgop.gop/99/</link>
 		<pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[011ae8c8-4de8-484b-8384-7eeed6566575]]></guid>
@@ -946,7 +956,8 @@ June 2, 2022</description>
 		<itunes:duration>7:41</itunes:duration>
 	</item>
 	<item>
-		<title>Коли завершиться війна. Частина друга.</title>
+		<title>98: Коли завершиться війна. Частина друга.</title>
+		<itunes:title>Коли завершиться війна. Частина друга.</itunes:title>
 		<link>https://gopgop.gop/98/</link>
 		<pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[4787e53d-16bf-4323-9398-4fe6285f1ab5]]></guid>
@@ -973,7 +984,8 @@ May 31, 2022</description>
 		<itunes:duration>5:44</itunes:duration>
 	</item>
 	<item>
-		<title>Прогнози на війну. Частина перша. Боброїдка.</title>
+		<title>97: Прогнози на війну. Частина перша. Боброїдка.</title>
+		<itunes:title>Прогнози на війну. Частина перша. Боброїдка.</itunes:title>
 		<link>https://gopgop.gop/97/</link>
 		<pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[da4a9921-481c-4d17-8bdf-71effdc963dc]]></guid>
@@ -997,7 +1009,8 @@ May 31, 2022</description>
 		<itunes:duration>4:09</itunes:duration>
 	</item>
 	<item>
-		<title>Військовий Титан в Україні.</title>
+		<title>96: Військовий Титан в Україні.</title>
+		<itunes:title>Військовий Титан в Україні.</itunes:title>
 		<link>https://gopgop.gop/96/</link>
 		<pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[06ac5702-8b72-4bd9-8edf-bedf43cd975b]]></guid>
@@ -1026,7 +1039,8 @@ May 15, 2022</description>
 		<itunes:duration>8:50</itunes:duration>
 	</item>
 	<item>
-		<title>Пуповина правобережного військового угрупування РФ в Україні.</title>
+		<title>95: Пуповина правобережного військового угрупування РФ в Україні.</title>
+		<itunes:title>Пуповина правобережного військового угрупування РФ в Україні.</itunes:title>
 		<link>https://gopgop.gop/95/</link>
 		<pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[8a3bb3b1-449d-4dbb-9a5a-535b5280153d]]></guid>
@@ -1040,7 +1054,8 @@ May 15, 2022</description>
 		<itunes:duration>7:07</itunes:duration>
 	</item>
 	<item>
-		<title>За деревами лісу не видно.</title>
+		<title>94: За деревами лісу не видно.</title>
+		<itunes:title>За деревами лісу не видно.</itunes:title>
 		<link>https://gopgop.gop/94/</link>
 		<pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[053055da-41cb-4383-8f57-18a4b5c2598f]]></guid>
@@ -1054,7 +1069,8 @@ May 15, 2022</description>
 		<itunes:duration>5:58</itunes:duration>
 	</item>
 	<item>
-		<title>Ми нашими територіями не торгуємо, інтервʼю Глави ОП. Частина перша.</title>
+		<title>93: Ми нашими територіями не торгуємо, інтервʼю Глави ОП. Частина перша.</title>
+		<itunes:title>Ми нашими територіями не торгуємо, інтервʼю Глави ОП. Частина перша.</itunes:title>
 		<link>https://gopgop.gop/93/</link>
 		<pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[84b7f714-8211-4fa8-a547-e78a002b3984]]></guid>
@@ -1068,7 +1084,8 @@ May 15, 2022</description>
 		<itunes:duration>10:18</itunes:duration>
 	</item>
 	<item>
-		<title>Прибрати Путіна.</title>
+		<title>92: Прибрати Путіна.</title>
+		<itunes:title>Прибрати Путіна.</itunes:title>
 		<link>https://gopgop.gop/92/</link>
 		<pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[df5f6fd6-fe53-481f-a648-2cd3cd2ff330]]></guid>
@@ -1084,7 +1101,8 @@ April 28, 2022</description>
 		<itunes:duration>4:02</itunes:duration>
 	</item>
 	<item>
-		<title>Скандальновідомий професор Соловєй про ядерний удар по Польщі.</title>
+		<title>91: Скандальновідомий професор Соловєй про ядерний удар по Польщі.</title>
+		<itunes:title>Скандальновідомий професор Соловєй про ядерний удар по Польщі.</itunes:title>
 		<link>https://gopgop.gop/91/</link>
 		<pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[e3738529-ffa9-4536-8872-90187043ef4b]]></guid>
@@ -1098,7 +1116,8 @@ April 28, 2022</description>
 		<itunes:duration>2:44</itunes:duration>
 	</item>
 	<item>
-		<title>Знову трохи про Херсон.</title>
+		<title>90: Знову трохи про Херсон.</title>
+		<itunes:title>Знову трохи про Херсон.</itunes:title>
 		<link>https://gopgop.gop/90/</link>
 		<pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[7028eb3e-0e32-4fd4-993f-8cfadd44c37b]]></guid>
@@ -1116,7 +1135,8 @@ April 14, 2022</description>
 		<itunes:duration>6:53</itunes:duration>
 	</item>
 	<item>
-		<title>Аналізаторам історії. Тим, хто знаходить аналогії методом промацування.</title>
+		<title>89: Аналізаторам історії. Тим, хто знаходить аналогії методом промацування.</title>
+		<itunes:title>Аналізаторам історії. Тим, хто знаходить аналогії методом промацування.</itunes:title>
 		<link>https://gopgop.gop/89/</link>
 		<pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[98c0a689-89eb-446f-8f93-0fd3bfcc33d9]]></guid>
@@ -1130,7 +1150,8 @@ April 14, 2022</description>
 		<itunes:duration>3:12</itunes:duration>
 	</item>
 	<item>
-		<title>Чи можлива війна. Знову та знову. Епатаж.  épater les bourgeois.</title>
+		<title>88: Чи можлива війна. Знову та знову. Епатаж.  épater les bourgeois.</title>
+		<itunes:title>Чи можлива війна. Знову та знову. Епатаж.  épater les bourgeois.</itunes:title>
 		<link>https://gopgop.gop/88/</link>
 		<pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[776102a6-511b-4d2c-a2cb-d070bc552fd4]]></guid>
@@ -1144,7 +1165,8 @@ April 14, 2022</description>
 		<itunes:duration>9:06</itunes:duration>
 	</item>
 	<item>
-		<title>За деревами лісу не видно.</title>
+		<title>87: За деревами лісу не видно.</title>
+		<itunes:title>За деревами лісу не видно.</itunes:title>
 		<link>https://gopgop.gop/87/</link>
 		<pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[60324923-121f-4f57-b20f-2f2ef17e28c3]]></guid>
@@ -1159,7 +1181,8 @@ April 14, 2022</description>
 		<itunes:duration>6:49</itunes:duration>
 	</item>
 	<item>
-		<title>Крик відчаю Головного розвідника РФ до структур ЛГБТ та НАТО.</title>
+		<title>86: Крик відчаю Головного розвідника РФ до структур ЛГБТ та НАТО.</title>
+		<itunes:title>Крик відчаю Головного розвідника РФ до структур ЛГБТ та НАТО.</itunes:title>
 		<link>https://gopgop.gop/86/</link>
 		<pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[5035f442-71f0-4805-8907-8ef11616d9b8]]></guid>
@@ -1175,7 +1198,8 @@ April 7, 2022</description>
 		<itunes:duration>8:40</itunes:duration>
 	</item>
 	<item>
-		<title>Передок Фаріди і екзистенційний вибір Путіна-Слуцького.</title>
+		<title>85: Передок Фаріди і екзистенційний вибір Путіна-Слуцького.</title>
+		<itunes:title>Передок Фаріди і екзистенційний вибір Путіна-Слуцького.</itunes:title>
 		<link>https://gopgop.gop/85/</link>
 		<pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[2212836b-36bb-410e-a65f-0cc13dfa6370]]></guid>
@@ -1189,7 +1213,8 @@ April 7, 2022</description>
 		<itunes:duration>4:17</itunes:duration>
 	</item>
 	<item>
-		<title>Чому Путін копіює кроки Гітлера, як низькопробний злочинець імітатор.</title>
+		<title>84: Чому Путін копіює кроки Гітлера, як низькопробний злочинець імітатор.</title>
+		<itunes:title>Чому Путін копіює кроки Гітлера, як низькопробний злочинець імітатор.</itunes:title>
 		<link>https://gopgop.gop/84/</link>
 		<pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[53dcf646-b050-4ba0-ad43-20710be9f776]]></guid>
@@ -1205,7 +1230,8 @@ April 5, 2022</description>
 		<itunes:duration>11:12</itunes:duration>
 	</item>
 	<item>
-		<title>Про що вони думали? Частина перша. Психічний стан Путіна.</title>
+		<title>83: Про що вони думали? Частина перша. Психічний стан Путіна.</title>
+		<itunes:title>Про що вони думали? Частина перша. Психічний стан Путіна.</itunes:title>
 		<link>https://gopgop.gop/83/</link>
 		<pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[ea9397fb-14d3-428c-a393-b4c7a5ffc31b]]></guid>
@@ -1222,7 +1248,8 @@ April 3, 2022</description>
 		<itunes:duration>3:30</itunes:duration>
 	</item>
 	<item>
-		<title>Як готувалась війна. Чалий.</title>
+		<title>82: Як готувалась війна. Чалий.</title>
+		<itunes:title>Як готувалась війна. Чалий.</itunes:title>
 		<link>https://gopgop.gop/82/</link>
 		<pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[e808b70c-1add-45fd-abff-7cc8791c14f0]]></guid>
@@ -1236,7 +1263,8 @@ April 3, 2022</description>
 		<itunes:duration>6:16</itunes:duration>
 	</item>
 	<item>
-		<title>Нагляд за Україною. Нагляд Росією в рамках угоди про гарантії безпеки.</title>
+		<title>81: Нагляд за Україною. Нагляд Росією в рамках угоди про гарантії безпеки.</title>
+		<itunes:title>Нагляд за Україною. Нагляд Росією в рамках угоди про гарантії безпеки.</itunes:title>
 		<link>https://gopgop.gop/81/</link>
 		<pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[ecedb376-787d-46f4-95e8-5bba1e77812c]]></guid>
@@ -1250,7 +1278,8 @@ April 3, 2022</description>
 		<itunes:duration>4:19</itunes:duration>
 	</item>
 	<item>
-		<title>Троянські коні Росії у складі української переговорної групи.</title>
+		<title>80: Троянські коні Росії у складі української переговорної групи.</title>
+		<itunes:title>Троянські коні Росії у складі української переговорної групи.</itunes:title>
 		<link>https://gopgop.gop/80/</link>
 		<pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[ee3f41ee-b37f-4105-a293-c3d66789bb83]]></guid>
@@ -1266,7 +1295,8 @@ March 30, 2022</description>
 		<itunes:duration>3:03</itunes:duration>
 	</item>
 	<item>
-		<title>Російська агентура, як головна бойова одиниця Кремля. Як здали Херсон.</title>
+		<title>79: Російська агентура, як головна бойова одиниця Кремля. Як здали Херсон.</title>
+		<itunes:title>Російська агентура, як головна бойова одиниця Кремля. Як здали Херсон.</itunes:title>
 		<link>https://gopgop.gop/79/</link>
 		<pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[7d4b943a-9860-4b8f-a4d8-de3cbfa3b1b7]]></guid>
@@ -1280,7 +1310,8 @@ March 30, 2022</description>
 		<itunes:duration>4:25</itunes:duration>
 	</item>
 	<item>
-		<title>Путін, як військовий злочинець, чому це сказано і чому це доводиться поснювати.</title>
+		<title>78: Путін, як військовий злочинець, чому це сказано і чому це доводиться поснювати.</title>
+		<itunes:title>Путін, як військовий злочинець, чому це сказано і чому це доводиться поснювати.</itunes:title>
 		<link>https://gopgop.gop/78/</link>
 		<pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[935dae61-c3e5-4ba1-9abb-75662d27afc8]]></guid>
@@ -1300,7 +1331,8 @@ March 28, 2022</description>
 		<itunes:duration>4:27</itunes:duration>
 	</item>
 	<item>
-		<title>Майстер Путін і Маргарита Петрівна Кабаєва.</title>
+		<title>77: Майстер Путін і Маргарита Петрівна Кабаєва.</title>
+		<itunes:title>Майстер Путін і Маргарита Петрівна Кабаєва.</itunes:title>
 		<link>https://gopgop.gop/77/</link>
 		<pubDate>Sun, 27 Mar 2022 06:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[164df1de-5009-4653-a3d9-8304bc245064]]></guid>
@@ -1314,7 +1346,8 @@ March 28, 2022</description>
 		<itunes:duration>3:26</itunes:duration>
 	</item>
 	<item>
-		<title>Сухопутний коридор в Крим.</title>
+		<title>76: Сухопутний коридор в Крим.</title>
+		<itunes:title>Сухопутний коридор в Крим.</itunes:title>
 		<link>https://gopgop.gop/76/</link>
 		<pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[3453f58b-db68-4793-9241-05a8f5af6265]]></guid>
@@ -1328,7 +1361,8 @@ March 28, 2022</description>
 		<itunes:duration>2:56</itunes:duration>
 	</item>
 	<item>
-		<title>Затяжна війна? Російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє.</title>
+		<title>75: Затяжна війна? Російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє.</title>
+		<itunes:title>Затяжна війна? Російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє.</itunes:title>
 		<link>https://gopgop.gop/75/</link>
 		<pubDate>Sat, 26 Mar 2022 07:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[a2713226-a1e3-4779-a6b1-b3a67593c848]]></guid>
@@ -1343,7 +1377,8 @@ March 28, 2022</description>
 		<itunes:duration>1:36</itunes:duration>
 	</item>
 	<item>
-		<title>Ні про шо, частина друга. Операція Глянець.</title>
+		<title>74: Ні про шо, частина друга. Операція Глянець.</title>
+		<itunes:title>Ні про шо, частина друга. Операція Глянець.</itunes:title>
 		<link>https://gopgop.gop/74/</link>
 		<pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[f8a870dd-838f-46be-ad31-f5c24ea54aec]]></guid>
@@ -1357,7 +1392,8 @@ March 28, 2022</description>
 		<itunes:duration>4:07</itunes:duration>
 	</item>
 	<item>
-		<title>Любов або війна. Гонець Путіна &#8211; Карасьов.</title>
+		<title>73: Любов або війна. Гонець Путіна &#8211; Карасьов.</title>
+		<itunes:title>Любов або війна. Гонець Путіна &#8211; Карасьов.</itunes:title>
 		<link>https://gopgop.gop/73/</link>
 		<pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[2d3ce1f6-bfd9-42f5-af80-7cc506173eae]]></guid>
@@ -1372,7 +1408,8 @@ March 28, 2022</description>
 		<itunes:duration>8:51</itunes:duration>
 	</item>
 	<item>
-		<title>Романтична історія моряка і Рози. От нєх дєлать. Благовіщенське сьогодні, номер 23.</title>
+		<title>72: Романтична історія моряка і Рози. От нєх дєлать. Благовіщенське сьогодні, номер 23.</title>
+		<itunes:title>Романтична історія моряка і Рози. От нєх дєлать. Благовіщенське сьогодні, номер 23.</itunes:title>
 		<link>https://gopgop.gop/72/</link>
 		<pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
 		<guid isPermaLink="false"><![CDATA[8ee4ec12-7bda-4c80-8c3c-dd3aa6ff84f1]]></guid>
