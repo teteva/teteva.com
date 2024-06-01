@@ -3,3 +3,5 @@ Disallow: /
 
 User-agent: ChatGPT-User
 Disallow: /
+
+Sitemap: https://teteva.com/sitemap.xml
