@@ -5,7 +5,7 @@
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<link>https://gopgop.gop/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Fri, 28 Mar 2025 11:58:01 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Jun 2025 09:31:00 +0000</lastBuildDate>
 	<language>uk</language>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
@@ -39,6 +39,23 @@
 	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 
+		<item>
+			<title>Довга дорога до миру.</title>
+			<itunes:title>Довга дорога до миру.</itunes:title>
+			<pubDate>Sun, 01 Jun 2025 09:31:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[72f04cb5-ab16-48c4-9d54-6a3ad11a22a3]]></guid>
+			<link><![CDATA[https://sites.libsyn.com/495518/5zys892ehcqz]]></link>
+			<description><![CDATA[<p>Один з аспектів, чому переговори у фінальній стадії поки лише у фантазіях Кулебів. </p>]]></description>
+			<content:encoded><![CDATA[<p>Один з аспектів, чому переговори у фінальній стадії поки лише у фантазіях Кулебів. </p>]]></content:encoded>
+			<enclosure length="10670464" type="audio/mpeg" url="https://traffic.libsyn.com/secure/ab5435aa-299a-47a0-b11c-5f9412e4859b/episod4.mp3?dest-id=4237603" />
+			<itunes:duration>07:25</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Один з аспектів, чому переговори у фінальній стадії поки лише у фантазіях Кулебів. ]]></itunes:subtitle>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title>Кацапія за підтримки Кореї проти України в Курській області.</title>
 			<itunes:title>Кацапія за підтримки Кореї проти України в Курській області.</itunes:title>
