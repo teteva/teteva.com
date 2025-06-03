@@ -5,7 +5,7 @@
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<link>https://gopgop.gop/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Sun, 01 Jun 2025 09:31:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Jun 2025 09:42:00 +0000</lastBuildDate>
 	<language>uk</language>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
@@ -39,6 +39,23 @@
 	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 
+		<item>
+			<title>Проблема переговорів. Частина 1.</title>
+			<itunes:title>Проблема переговорів. Частина 1.</itunes:title>
+			<pubDate>Tue, 03 Jun 2025 09:42:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fd4a213d-3e3c-451c-93b4-3f52d33883f7]]></guid>
+			<link><![CDATA[https://sites.libsyn.com/495518/episode--1]]></link>
+			<description><![CDATA[<p>Проблема переговорів та про світло в кінці тонелю. </p>]]></description>
+			<content:encoded><![CDATA[<p>Проблема переговорів та про світло в кінці тонелю. </p>]]></content:encoded>
+			<enclosure length="12859840" type="audio/mpeg" url="https://traffic.libsyn.com/secure/ab5435aa-299a-47a0-b11c-5f9412e4859b/ep5.mp3?dest-id=4237603" />
+			<itunes:duration>08:56</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Проблема переговорів та про світло в кінці тонелю. ]]></itunes:subtitle>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title>Довга дорога до миру.</title>
 			<itunes:title>Довга дорога до миру.</itunes:title>
