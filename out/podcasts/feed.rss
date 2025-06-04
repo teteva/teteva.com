@@ -5,7 +5,7 @@
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<link>https://gopgop.gop/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Tue, 03 Jun 2025 09:42:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Jun 2025 08:04:00 +0000</lastBuildDate>
 	<language>uk</language>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
@@ -39,6 +39,24 @@
 	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 
+		<item>
+			<title>Секрети спецоперації СБУ.</title>
+			<itunes:title>Секрети спецоперації СБУ.</itunes:title>
+			<pubDate>Wed, 04 Jun 2025 08:04:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c2ebd339-e012-4c59-896f-a1a2097930b0]]></guid>
+			<link><![CDATA[https://sites.libsyn.com/495518/if1reejxcuat]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/d/e/3/e/de3e4217197210a516c3140a3186d450/Image_4-6-25_at_11.09AM.jpeg" />
+			<description><![CDATA[<p>Аналіз WSJ показує, як Україна використовувала вітчизняні технології та старі шпигунські засоби під час атаки, яка шокувала світ у неділю своєю зухвалістю. Агентство контрабандою ввезло до Росії деталі українських безпілотників та зібрало їх у секретному місці. </p>]]></description>
+			<content:encoded><![CDATA[<p>Аналіз WSJ показує, як Україна використовувала вітчизняні технології та старі шпигунські засоби під час атаки, яка шокувала світ у неділю своєю зухвалістю. Агентство контрабандою ввезло до Росії деталі українських безпілотників та зібрало їх у секретному місці. </p>]]></content:encoded>
+			<enclosure length="6389632" type="audio/mpeg" url="https://traffic.libsyn.com/secure/ab5435aa-299a-47a0-b11c-5f9412e4859b/ep6.mp3?dest-id=4237603" />
+			<itunes:duration>04:27</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Аналіз WSJ показує, як Україна використовувала вітчизняні технології та старі шпигунські засоби під час атаки, яка шокувала світ у...]]></itunes:subtitle>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title>Проблема переговорів. Частина 1.</title>
 			<itunes:title>Проблема переговорів. Частина 1.</itunes:title>
