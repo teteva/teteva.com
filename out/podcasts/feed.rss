@@ -5,7 +5,7 @@
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<link>https://gopgop.gop/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Thu, 05 Jun 2025 11:04:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Jun 2025 15:04:00 +0000</lastBuildDate>
 	<language>uk</language>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
@@ -39,6 +39,24 @@
 	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 
+		<item>
+			<title>"Україна за Іран". Містер ганДональд має план Б.</title>
+			<itunes:title>"Україна за Іран". Містер ганДональд має план Б.</itunes:title>
+			<pubDate>Fri, 06 Jun 2025 15:04:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[aeef223e-028b-426a-a5b5-d92eb3a68191]]></guid>
+			<link><![CDATA[https://sites.libsyn.com/495518/5tbnfcbu78nf]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/9/3/f/293fc6017bd95bec16c3140a3186d450/Image_6-6-25_at_12.34PM.jpeg" />
+			<description><![CDATA[<p>У середу Трамп також подякував Путіну за допомогу в складних переговорах щодо ядерної програми Ірану, зробивши коментарі, які в Росії були інтерпретовані як підтримка Кремля загалом.<br /> «Те, що сталося, було очевидним компромісом, Україна за Іран», — сказав Аббас Галямов, політичний консультант і колишній спічрайтер Путіна.</p>]]></description>
+			<content:encoded><![CDATA[<p>У середу Трамп також подякував Путіну за допомогу в складних переговорах щодо ядерної програми Ірану, зробивши коментарі, які в Росії були інтерпретовані як підтримка Кремля загалом. «Те, що сталося, було очевидним компромісом, Україна за Іран», — сказав Аббас Галямов, політичний консультант і колишній спічрайтер Путіна.</p>]]></content:encoded>
+			<enclosure length="10469440" type="audio/mpeg" url="https://traffic.libsyn.com/secure/ab5435aa-299a-47a0-b11c-5f9412e4859b/ep9.mp3?dest-id=4237603" />
+			<itunes:duration>07:17</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[У середу Трамп також подякував Путіну за допомогу в складних переговорах щодо ядерної програми Ірану, зробивши коментарі, які в Росії...]]></itunes:subtitle>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title>ганДональд — тепер стає особистим речником Пукіна?</title>
 			<itunes:title>ганДональд — тепер стає особистим речником Пукіна?</itunes:title>
