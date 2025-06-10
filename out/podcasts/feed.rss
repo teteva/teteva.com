@@ -5,7 +5,7 @@
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<link>https://gopgop.gop/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Tue, 10 Jun 2025 09:08:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Jun 2025 15:28:37 +0000</lastBuildDate>
 	<language>uk</language>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
@@ -39,6 +39,24 @@
 	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 
+		<item>
+			<title>«Окупувати всю частину України на лівому березі Дніпра» — Заступник керівника Офісу президента.</title>
+			<itunes:title>«Окупувати всю частину України на лівому березі Дніпра» — Заступник керівника Офісу президента.</itunes:title>
+			<pubDate>Tue, 10 Jun 2025 15:24:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[704b7a5a-a0aa-46d5-940b-5856d3a5dc9a]]></guid>
+			<link><![CDATA[https://sites.libsyn.com/495518/akopj538g9ko]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/9/b/c/3/9bc3001b497d79e416c3140a3186d450/xWNadycuXAnEfmyhN8zYUf5Jknj41RwaikhzDTxv.png" />
+			<description><![CDATA[<p>Заступник керівника Офісу президента України полковник Павло Паліса заявив, що Росія хоче «окупувати всю частину України на лівому березі Дніпра», а також захопити «Одеську та Миколаївську області, щоб перерізати Україні доступ до Чорного моря».</p>]]></description>
+			<content:encoded><![CDATA[<p>Заступник керівника Офісу президента України полковник Павло Паліса заявив, що Росія хоче «окупувати всю частину України на лівому березі Дніпра», а також захопити «Одеську та Миколаївську області, щоб перерізати Україні доступ до Чорного моря».</p>]]></content:encoded>
+			<enclosure length="9653248" type="audio/mpeg" url="https://traffic.libsyn.com/secure/ab5435aa-299a-47a0-b11c-5f9412e4859b/ep11.mp3?dest-id=4237603" />
+			<itunes:duration>06:43</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Заступник керівника Офісу президента України полковник Павло Паліса заявив, що Росія хоче «окупувати всю частину України на лівому...]]></itunes:subtitle>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title>Буданов: росія допоможе Північній Кореї налагодити виробництво "Шахедів"</title>
 			<itunes:title>Буданов: росія допоможе Північній Кореї налагодити виробництво "Шахедів"</itunes:title>
