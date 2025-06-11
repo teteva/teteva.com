@@ -5,7 +5,7 @@
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<link>https://gopgop.gop/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Tue, 10 Jun 2025 15:28:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Jun 2025 07:23:00 +0000</lastBuildDate>
 	<language>uk</language>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
@@ -39,6 +39,24 @@
 	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 
+		<item>
+			<title>Плани Пукіна щодо України.</title>
+			<itunes:title>Плани Пукіна щодо України.</itunes:title>
+			<pubDate>Wed, 11 Jun 2025 07:23:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[98db7539-6cc0-40cc-a326-7877e3da8cb1]]></guid>
+			<link><![CDATA[https://sites.libsyn.com/495518/ozmszotmpdti]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/d/e/2/0/de2085da4f951d33d959afa2a1bf1c87/000_34M927P.jpg" />
+			<description><![CDATA[<p>Чому дезинформація Кремля працює? Знову і знову. </p>]]></description>
+			<content:encoded><![CDATA[<p>Чому дезинформація Кремля працює? Знову і знову. </p>]]></content:encoded>
+			<enclosure length="10421632" type="audio/mpeg" url="https://traffic.libsyn.com/secure/ab5435aa-299a-47a0-b11c-5f9412e4859b/ep12.mp3?dest-id=4237603" />
+			<itunes:duration>07:15</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Чому дезинформація Кремля працює? Знову і знову. ]]></itunes:subtitle>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title>Окупувати всю частину України на лівому березі Дніпра — Заступник керівника Офісу президента.</title>
 			<itunes:title>«Окупувати всю частину України на лівому березі Дніпра» — Заступник керівника Офісу президента.</itunes:title>
