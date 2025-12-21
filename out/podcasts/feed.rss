@@ -5,7 +5,7 @@
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 	<link>https://gopgop.gop/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Wed, 11 Jun 2025 07:23:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Oct 2025 10:35:00 +0000</lastBuildDate>
 	<language>uk</language>
 	<generator>Blubrry PowerPress/10.2.4</generator>
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
@@ -39,6 +39,25 @@
 	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 
+		<item>
+			<title>Як Залужний-військовий перемагає Залужного-аналітика</title>
+			<itunes:title>Як Залужний-військовий перемагає Залужного-аналітика</itunes:title>
+			<pubDate>Fri, 24 Oct 2025 10:35:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a197086e-7fef-4740-a29c-c6bc26934949]]></guid>
+			<link><![CDATA[https://sites.libsyn.com/495518/episode-title-14]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/d/0/9/ed09e1e59c26fa92d959afa2a1bf1c87/So-Long-Sammy-cover-scaled.jpg" />
+			<description><![CDATA[<p>Як точний опис загрози перетворюється на хибний рецепт: ЄС, Україна і межі військового реалізму.</p>]]></description>
+			<content:encoded><![CDATA[<p>Готовність до війни — це не командний стан «готовий до бою», який можна встановити наказом. Вона з’являється або через досвід — коли суспільство втягується у війну свідомо чи під тиском обставин, — або через довгий і болісний процес культивування, коли політичні еліти і медіа системно готують націю до думки, що війна можлива.</p> <p>Тому нинішнє дивування українців, чому ЄС «не готовий», має в собі певну долю лицемірства. Ми самі не були готовими після восьми років війни — чому тоді очікуємо, що європейські демократії, які не зазнавали воєнних шоків поколіннями, стануть готовими лише через чужі попередження?</p>]]></content:encoded>
+			<enclosure length="17237440" type="audio/mpeg" url="https://traffic.libsyn.com/secure/ab5435aa-299a-47a0-b11c-5f9412e4859b/25-10-24-1.mp3?dest-id=5139070" />
+			<itunes:duration>11:59</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Готовність до війни — це не командний стан «готовий до бою», який можна встановити наказом. Вона з’являється або через досвід — коли...]]></itunes:subtitle>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>@notalsoran</itunes:author>
+		</item>
 		<item>
 			<title>Плани Пукіна щодо України.</title>
 			<itunes:title>Плани Пукіна щодо України.</itunes:title>
