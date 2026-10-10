@@ -40,6 +40,22 @@
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
 
 		<item>
+			<title>Трамп і Путін домовились. А заплатить Україна.</title>
+			<pubDate>Sat, 10 Oct 2026 12:09:16 +0300</pubDate>
+			<guid isPermaLink="false">teteva-s3e1</guid>
+			<itunes:image href="https://images.teteva.com/s3e1-2.jpg" />
+			<description><![CDATA[<p>Україна б'є по російській нафті, а зупинити її намагаються Сполучені Штати. Погрози розвідданими, домовленості Трампа з Путіним і ціна американських нафтових інтересів для України.</p>]]></description>
+			<enclosure url="https://audio.teteva.com/s3e1.mp3" length="14006610" type="audio/mpeg" />
+			<itunes:duration>00:09:44</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Не бийте Росію: новий ультиматум Україні?]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
+		
+		<item>
 			<title>Як Залужний-військовий перемагає Залужного-аналітика</title>
 			<itunes:title>Як Залужний-військовий перемагає Залужного-аналітика</itunes:title>
 			<pubDate>Fri, 24 Oct 2025 10:35:00 +0000</pubDate>
