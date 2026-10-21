@@ -6,7 +6,7 @@
 <channel>
 	<title>Експлікація. Війна, Україна, світ.</title>
 	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
-	<link>https://gopgop.gop/</link>
+	<link>https://teteva.com/</link>
 	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
 	<lastBuildDate>Wed, 21 Oct 2026 13:26:00 +0300</lastBuildDate>
 	<language>uk</language>
@@ -14,7 +14,7 @@
 	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
 	<itunes:author>Teteva &amp; Тетева</itunes:author>
 	<itunes:explicit>true</itunes:explicit>
-	<itunes:image href="https://img.gopgop.gop/feed.jpg" />
+	<itunes:image href="https://img.teteva.com/feed.jpg" />
 	<itunes:type>episodic</itunes:type>
 	<itunes:owner>
 		<itunes:name>Teteva &amp; Тетева</itunes:name>
