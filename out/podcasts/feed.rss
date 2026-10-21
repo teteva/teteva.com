@@ -38,6 +38,104 @@
 	</itunes:category>
 	<podcast:location>Благовіщенське, Україна.</podcast:location>
 	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+	
+		<item>
+			<title>Третьою світовою лякають. А хто і чим воюватиме?</title>
+			<pubDate>Wed, 21 Oct 2026 13:26:00 +0300</pubDate>
+			<guid isPermaLink="false">teteva-s3e6</guid>
+			<itunes:image href="https://images.teteva.com/s3e6.jpg" />
+			<description><![CDATA[
+<p>Мюнхен 1938 року знову став універсальним поясненням сучасної політики. Але наскільки обґрунтовані ці історичні паралелі? І що залишається від прогнозів Третьої світової війни, якщо оцінювати не заяви політиків, а наявні ресурси?</p>
+<p>Розбираємо аналогії, які використовують популярні коментатори, зокрема Віталій Портников та Айзенберг. Згадуємо гонку озброєнь 1930-х років і порівнюємо її із сучасним військово-промисловим потенціалом.</p>
+<p>Чому навіть обмежені військові операції виснажують запаси високоточного озброєння США? Скільки важать проблеми виробництва, мобілізації та людських ресурсів? І чому роль Європи не можна зводити до пасивного очікування рішень Вашингтона?</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e6.mp3" length="18884848" type="audio/mpeg" />
+			<itunes:duration>00:13:07</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Мюнхенські аналогії, виснажені арсенали США та реальні можливості Європи]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
+
+		<item>
+			<title>Трамп і Путін проти Європи. А що Китай?</title>
+			<pubDate>Mon, 19 Oct 2026 17:00:00 +0300</pubDate>
+			<guid isPermaLink="false">teteva-s3e5</guid>
+			<itunes:image href="https://images.teteva.com/s3e5.jpg" />
+			<description><![CDATA[
+<p>Чи справді світ рухається до Третьої світової війни, чи головна боротьба точиться за майбутнє Європи?</p>
+<p>Розглядаємо інтереси США, Росії та Китаю, сценарії послаблення Європейського Союзу й наслідки для України. Окремо — критика прогнозів Віталія Портникова, роль американських соціальних мереж у європейських політичних процесах і питання, від якого залежить українська стійкість: що станеться, якщо Європа перестане фінансувати Україну?</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e5.mp3" length="9346601" type="audio/mpeg" />
+			<itunes:duration>00:06:29</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Навіщо послаблювати Європу і хто заплатить за її розкол?]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
+
+		<item>
+			<title>США проти Європи. Навіщо Вашингтону Росія?</title>
+			<pubDate>Mon, 19 Oct 2026 16:00:00 +0300</pubDate>
+			<guid isPermaLink="false">teteva-s3e4</guid>
+			<itunes:image href="https://images.teteva.com/s3e4.jpg" />
+			<description><![CDATA[
+<p>Чи може Росія бути не лише противником Заходу, а й інструментом американського впливу на Європу?</p>
+<p>Розбираємо гіпотезу про використання російського чинника для стримування європейської самостійності, залежність Європи від американських оборонних технологій та можливі цілі переговорів Трампа з Путіним.</p>
+<p>Окремо — критика Юрія Швеця та популярних інформаційних інтерпретацій, які підміняють аналіз американської політики заспокійливими поясненнями.</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e4.mp3" length="11449356" type="audio/mpeg" />
+			<itunes:duration>00:07:57</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Американська зброя, російський важіль і солодкі байки для українців]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
+
+		<item>
+			<title>Поки всі чекають Третьої світової, ШІ змінює світ</title>
+			<pubDate>Sun, 11 Oct 2026 15:00:00 +0300</pubDate>
+			<guid isPermaLink="false">teteva-s3e3</guid>
+			<itunes:image href="https://images.teteva.com/s3e3.jpg" />
+			<description><![CDATA[
+<p>Поки політики й коментатори обговорюють загрозу Третьої світової війни, технології штучного інтелекту змінюють уявлення про владу, безпеку та майбутнє держав.</p>
+<p>У цьому випуску — стрімкий розвиток мовних моделей, питання безпеки ШІ, роль Palantir і цифровізації держави. А також критичний погляд на прогнози глобальної війни: наскільки вони відповідають реальним можливостям та інтересам держав?</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e3.mp3" length="9841257" type="audio/mpeg" />
+			<itunes:duration>00:06:50</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Palantir, цифрова держава і небезпека, яку недооцінюють]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
+
+		<item>
+			<title>Трамп не дурень. То чому його таким вважають?</title>
+			<pubDate>Sat, 10 Oct 2026 18:00:00 +0300</pubDate>
+			<guid isPermaLink="false">teteva-s3e2</guid>
+			<itunes:image href="https://images.teteva.com/s3e2.jpg" />
+			<description><![CDATA[
+<p>Чому так багато коментаторів пояснюють рішення Трампа наївністю, некомпетентністю або нерозумінням наслідків? А що, коли він чудово усвідомлює, чого домагається?</p>
+<p>У цьому випуску — механізми особистої влади Трампа, показова лояльність його оточення на прикладі Марко Рубіо та інформаційні витоки про можливе припинення передачі Україні американських розвідданих.</p>
+<p>Розглядаємо, як публічні погрози можуть ставати інструментом переговорного тиску, чому поступки Росії не варто пояснювати виключно грошима та які наслідки американсько-російських домовленостей можуть очікувати Україну і Європу.</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e2.mp3" length="10333095" type="audio/mpeg" />
+			<itunes:duration>00:06:22</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Рубіо, розвіддані та американська технологія примусу]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Трамп і Путін домовились. А заплатить Україна.</title>
