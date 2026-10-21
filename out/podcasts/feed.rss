@@ -1,46 +1,49 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:podcast="https://podcastindex.org/namespace/1.0">
-<channel>
-	<title>Експлікація. Війна, Україна, світ.</title>
-	<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
-	<link>https://teteva.com/</link>
-	<description>Експлікація &#8211; про все і ні про що. Про війну в Україні. І міжнародну обстановку. </description>
-	<lastBuildDate>Wed, 21 Oct 2026 13:26:00 +0300</lastBuildDate>
-	<language>uk</language>
-	<generator>Blubrry PowerPress/10.2.4</generator>
-	<itunes:summary><![CDATA[— Explication is the process of drawing out the meaning of something which is not clearly defined, so as to make explicit what is currently left implicit. — Our concept of the cause of the war in Ukraine does not distinguish between necessary causes, sufficient causes, completed causes, etc.]]></itunes:summary>
-	<itunes:author>Teteva &amp; Тетева</itunes:author>
-	<itunes:explicit>true</itunes:explicit>
-	<itunes:image href="https://img.teteva.com/feed.jpg" />
-	<itunes:type>episodic</itunes:type>
-	<itunes:owner>
-		<itunes:name>Teteva &amp; Тетева</itunes:name>
-		<itunes:email>tetevausa@gmail.com</itunes:email>
-	</itunes:owner>
-	<copyright>teteva.com | Teteva &amp; Тетева</copyright>
-	<podcast:license>teteva.com | Teteva &amp; Тетева</podcast:license>
-	<podcast:medium>podcast</podcast:medium>
-	<itunes:subtitle>Explication. War, Ukraine, the whole world.</itunes:subtitle>
-	<image>
+	<channel>
 		<title>Експлікація. Війна, Україна, світ.</title>
-		<url>https://img.teteva.com/feed.jpg</url>
-		<link><![CDATA[https://teteva.com]]></link>
-	</image>
-	<itunes:category text="Society &amp; Culture">
-		<itunes:category text="Personal Journals" />
-	</itunes:category>
-	<itunes:category text="News">
-		<itunes:category text="News Commentary" />
-	</itunes:category>
-	<itunes:category text="News">
-		<itunes:category text="Politics" />
-	</itunes:category>
-	<podcast:location>Благовіщенське, Україна.</podcast:location>
-	<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
-	
+		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
+		<link>https://teteva.com/</link>
+		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
+		<lastBuildDate>Wed, 21 Oct 2026 13:26:00 +0300</lastBuildDate>
+		<language>uk</language>
+		<itunes:author>Teteva &amp; Тетева</itunes:author>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:image href="https://img.teteva.com/feed.jpg" />
+		<itunes:type>episodic</itunes:type>
+
+		<itunes:owner>
+			<itunes:name>Teteva &amp; Тетева</itunes:name>
+			<itunes:email>tetevausa@gmail.com</itunes:email>
+		</itunes:owner>
+
+		<copyright>teteva.com | Teteva &amp; Тетева</copyright>
+		<podcast:medium>podcast</podcast:medium>
+		<itunes:subtitle>Explication. War, Ukraine, the whole world.</itunes:subtitle>
+
+		<image>
+			<title>Експлікація. Війна, Україна, світ.</title>
+			<url>https://img.teteva.com/feed.jpg</url>
+			<link>https://teteva.com/</link>
+		</image>
+
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="Personal Journals" />
+		</itunes:category>
+		<itunes:category text="News">
+			<itunes:category text="News Commentary" />
+		</itunes:category>
+		<itunes:category text="News">
+			<itunes:category text="Politics" />
+		</itunes:category>
+
+		<podcast:location>Благовіщенське, Україна.</podcast:location>
+		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
 		<item>
 			<title>Третьою світовою лякають. А хто і чим воюватиме?</title>
 			<pubDate>Wed, 21 Oct 2026 13:26:00 +0300</pubDate>
