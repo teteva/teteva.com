@@ -9,7 +9,7 @@
 		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 		<link>https://teteva.com/</link>
 		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
-		<lastBuildDate>Wed, 21 Oct 2026 13:26:00 +0300</lastBuildDate>
+		<lastBuildDate>Thu, 22 Oct 2026 12:30:00 +0300</lastBuildDate>
 		<language>uk</language>
 		<itunes:author>Teteva &amp; Тетева</itunes:author>
 		<itunes:explicit>true</itunes:explicit>
@@ -43,6 +43,26 @@
 
 		<podcast:location>Благовіщенське, Україна.</podcast:location>
 		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
+		<item>
+			<title>Крим, оточений океаном. Путін готується до продовження.</title>
+			<pubDate>Thu, 22 Oct 2026 12:30:00 +0300</pubDate>
+			<guid isPermaLink="false">teteva-s3e7</guid>
+			<itunes:image href="https://images.teteva.com/s3e7.jpg" />
+			<description><![CDATA[
+<p>Трамп знову обіцяє близьке завершення війни й пояснює, чому Росія не захопила Київ. Крим, оточений океаном, зливи перед вторгненням і російські танки, які нібито мчали українськими дорогами зі швидкістю 80 кілометрів на годину. Але звідки президент США бере такі уявлення?</p>
+<p>Коментуємо американсько-російські контакти, можливе заморожування війни на нинішній лінії фронту, фінансування України європейськими державами та небезпеку ілюзій про остаточний мир.</p>
+<p>І головне — анонс наступного випуску про нову військову доктрину Кремля: чому можливе припинення бойових дій в Україні не обов'язково означатиме завершення значно ширшого протистояння з Європою.</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e7.mp3" length="11624270" type="audio/mpeg" />
+			<itunes:duration>00:08:04</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Казки Трампа про Україну, заморожування війни та анонс нової доктрини Кремля]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Третьою світовою лякають. А хто і чим воюватиме?</title>
