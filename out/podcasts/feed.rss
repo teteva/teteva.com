@@ -9,7 +9,7 @@
 		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 		<link>https://teteva.com/</link>
 		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
-		<lastBuildDate>Thu, 22 Oct 2026 12:30:00 +0300</lastBuildDate>
+		<lastBuildDate>Fri, 23 Oct 2026 16:24:00 +0300</lastBuildDate>
 		<language>uk</language>
 		<itunes:author>Teteva &amp; Тетева</itunes:author>
 		<itunes:explicit>true</itunes:explicit>
@@ -43,6 +43,26 @@
 
 		<podcast:location>Благовіщенське, Україна.</podcast:location>
 		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
+		<item>
+			<title>Європа може заплатити. Але Америка може не продати.</title>
+			<pubDate>Fri, 23 Oct 2026 16:24:00 +0300</pubDate>
+			<guid isPermaLink="false">teteva-s3e8</guid>
+			<itunes:image href="https://images.teteva.com/s3e8.jpg" />
+			<description><![CDATA[
+<p>Європа може виділити мільярди на оборону. Але що станеться, якщо Сполучені Штати відмовляться продавати ракети, боєприпаси або критично необхідні компоненти?</p>
+<p>Розбираємо залежність України та Європи від американських систем протиракетної оборони, зокрема Patriot. Чому захист від балістичних ракет не можна забезпечити одним рішенням про фінансування? Як десятиліттями формувалася залежність усередині НАТО і чому навіть європейські оборонні проєкти можуть залежати від американських постачальників?</p>
+<p>А також — роль Starlink та космічної інфраструктури, можливе повернення енергетичної залежності Європи від Росії й головне питання: що відбувається, коли постачання зброї стає засобом політичного тиску? Чому подолання такої залежності потребує років, яких Україна та Європа можуть не мати?</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e8.mp3" length="9823075" type="audio/mpeg" />
+			<itunes:duration>00:06:49</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Балістичні ракети, Patriot і залежність, яку не купити за гроші]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Крим, оточений океаном. Путін готується до продовження.</title>
