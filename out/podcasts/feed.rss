@@ -9,7 +9,7 @@
 		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 		<link>https://teteva.com/</link>
 		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
-		<lastBuildDate>Fri, 23 Oct 2026 16:24:00 +0300</lastBuildDate>
+		<lastBuildDate>Sat, 24 Oct 2026 14:02:00 +0300</lastBuildDate>
 		<language>uk</language>
 		<itunes:author>Teteva &amp; Тетева</itunes:author>
 		<itunes:explicit>true</itunes:explicit>
@@ -43,6 +43,27 @@
 
 		<podcast:location>Благовіщенське, Україна.</podcast:location>
 		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
+		<item>
+			<title>Меланія та третій строк Мавпи. Гроші вже є, а гарантій немає.</title>
+			<pubDate>Sat, 24 Oct 2026 14:02:00 +0300</pubDate>
+			<guid isPermaLink="false">teteva-s3e9</guid>
+			<itunes:image href="https://images.teteva.com/s3e9.jpg" />
+			<description><![CDATA[
+<p>Навіщо Трампу третій президентський строк? Невже йому недостатньо грошей і влади? А що, коли головна проблема полягає не в тому, щоб заробити ще більше, а в тому, щоб зберегти вже отримане?</p>
+<p>Розглядаємо величезні статки, корпоративні структури та юридичні ризики, які можуть зробити втрату президентської влади особливо небезпечною для Трампа. Чому великі гроші потребують не менш великих гарантій безпеки і чому звичне українське «можна домовитися» не пояснює американської політичної системи?</p>
+<p>На початку випуску — про імідж Меланії Трамп як рятівниці українських дітей, роль Москви в їхньому поверненні та дивовижну готовність коментаторів перетворювати окремі гуманітарні жести на політичні тріумфи.</p>
+<p>Продовження теми — третій строк Трампа, Куба та Москва — у наступному випуску.</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e9.mp3" length="8004326" type="audio/mpeg" />
+			<itunes:duration>00:05:34</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Меланія, українські діти та справжня ціна втрати влади]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Європа може заплатити. Але Америка може не продати.</title>
