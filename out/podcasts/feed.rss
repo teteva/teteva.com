@@ -9,7 +9,7 @@
 		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 		<link>https://teteva.com/</link>
 		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
-		<lastBuildDate>Sat, 24 Oct 2026 14:02:00 +0300</lastBuildDate>
+		<lastBuildDate>Sun, 25 Oct 2026 11:55:00 +0200</lastBuildDate>
 		<language>uk</language>
 		<itunes:author>Teteva &amp; Тетева</itunes:author>
 		<itunes:explicit>true</itunes:explicit>
@@ -43,6 +43,26 @@
 
 		<podcast:location>Благовіщенське, Україна.</podcast:location>
 		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
+		<item>
+			<title>Умови для України погіршуються? Згадайте Стамбул 2022-го.</title>
+			<pubDate>Sun, 25 Oct 2026 11:55:00 +0200</pubDate>
+			<guid isPermaLink="false">teteva-s3e10</guid>
+			<itunes:image href="https://images.teteva.com/s3e10.jpg" />
+			<description><![CDATA[
+<p>Нас постійно переконують, що з 2022 року умови завершення війни для України лише погіршуються. Але що насправді містив Стамбульський проєкт угоди? І чому питання виведення російських окупаційних військ має принципове значення для оцінки тодішніх домовленостей?</p>
+<p>Порівнюємо переговорні позиції 2022 року із сьогоднішніми можливостями Росії. Розглядаємо зв'язок Стамбульських переговорів із попереднім досвідом української дипломатії, зокрема Будапештським меморандумом.</p>
+<p>Окремо — дефіцит ракет Patriot, загроза російських балістичних ударів і можливість використання військової допомоги як засобу примусу України до поступок. А також небезпека виборів під час війни, вплив на Європу та ризики скорочення європейського фінансування України.</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e10.mp3" length="16227888" type="audio/mpeg" />
+			<itunes:duration>00:11:16</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Переговори 2022 року, російська окупація та американські ракети Patriot]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Меланія та третій строк Мавпи. Гроші вже є, а гарантій немає.</title>
