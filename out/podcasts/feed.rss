@@ -9,7 +9,7 @@
 		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 		<link>https://teteva.com/</link>
 		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
-		<lastBuildDate>Sun, 25 Oct 2026 11:55:00 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 26 Oct 2026 12:25:00 +0200</lastBuildDate>
 		<language>uk</language>
 		<itunes:author>Teteva &amp; Тетева</itunes:author>
 		<itunes:explicit>true</itunes:explicit>
@@ -43,6 +43,26 @@
 
 		<podcast:location>Благовіщенське, Україна.</podcast:location>
 		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
+		<item>
+			<title>Мир для України? А хто дозволить нам захищатися?</title>
+			<pubDate>Mon, 26 Oct 2026 12:25:00 +0200</pubDate>
+			<guid isPermaLink="false">teteva-s3e11</guid>
+			<itunes:image href="https://images.teteva.com/s3e11.jpg" />
+			<description><![CDATA[
+<p>Нам говорять про мирні переговори, але що насправді обговорюють за зачиненими дверима? Чому Зеленський змушений окремо заявляти, що обмеження української армії та нейтралітет не можуть бути умовами домовленостей?</p>
+<p>Пояснюємо, як обмеження чисельності Збройних сил може перешкодити Україні підготуватися до нового російського наступу. Чому нейтралітет — це не лише питання НАТО, а й обмеження права України самостійно створювати військові союзи?</p>
+<p>Окремо — про інформаційний тиск навколо переговорів і публікацію американського видання щодо нібито готовності Путіна повернути окуповані території у 2023 році. Наскільки переконливою виглядає така історія на тлі російської анексії українських областей і масштабного будівництва оборонних укріплень?</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e11.mp3" length="10673210" type="audio/mpeg" />
+			<itunes:duration>00:07:25</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Обмеження армії, нейтралітет і переговори, про які ми знаємо не все]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Умови для України погіршуються? Згадайте Стамбул 2022-го.</title>
