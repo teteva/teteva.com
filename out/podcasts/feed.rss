@@ -9,7 +9,7 @@
 		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 		<link>https://teteva.com/</link>
 		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
-		<lastBuildDate>Mon, 26 Oct 2026 12:55:00 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 16:28:00 +0200</lastBuildDate>
 		<language>uk</language>
 		<itunes:author>Teteva &amp; Тетева</itunes:author>
 		<itunes:explicit>true</itunes:explicit>
@@ -43,6 +43,27 @@
 
 		<podcast:location>Благовіщенське, Україна.</podcast:location>
 		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
+		<item>
+			<title>Фау-2 створили без комп'ютерів. Що заважає Fire Point?</title>
+			<pubDate>Tue, 27 Oct 2026 16:28:00 +0200</pubDate>
+			<guid isPermaLink="false">teteva-s3e12</guid>
+			<itunes:image href="https://images.teteva.com/s3e12.jpg" />
+			<description><![CDATA[
+<p>У жовтні 1942 року німецька ракета A4, відома згодом як Фау-2, подолала близько 200 кілометрів. Без цифрових комп'ютерів, сучасної електроніки та готових технологічних рішень інженери створили балістичну ракету, здатну самостійно підтримувати напрямок польоту й досягати величезної швидкості.</p>
+<p>Минуло понад 80 років. Сьогодні існують готові принципи, креслення, обчислювальна техніка, сучасні матеріали та виробниче обладнання. Україна має власну історію ракетобудування — від конструкторського бюро «Південне» до харківських розробників систем керування стратегічними ракетами.</p>
+<p>Чому за таких передумов Fire Point досі не демонструє очікуваного результату у створенні серійної української балістичної зброї? Порівнюємо темпи розробки, випробувань та виробництва. Згадуємо британське бомбардування Пенемюнде 1943 року, яке мало зупинити німецьку ракетну програму.</p>
+<p>Чи можна пояснити нинішні затримки лише технічними труднощами та корупцією? Чи є підстави розглядати версію саботажу? І чому балістичні ракети, які з'являться вже після нав'язаного Україні миру, не зможуть вплинути на умови його укладення?</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e12.mp3" length="13341296" type="audio/mpeg" />
+			<itunes:duration>00:08:54</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Балістика 1942 року, сучасні технології та підозра в саботажі]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Мир для України? А хто дозволить нам захищатися?</title>
