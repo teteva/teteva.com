@@ -9,7 +9,7 @@
 		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 		<link>https://teteva.com/</link>
 		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
-		<lastBuildDate>Tue, 27 Oct 2026 16:28:00 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 28 Oct 2026 13:12:00 +0200</lastBuildDate>
 		<language>uk</language>
 		<itunes:author>Teteva &amp; Тетева</itunes:author>
 		<itunes:explicit>true</itunes:explicit>
@@ -43,6 +43,27 @@
 
 		<podcast:location>Благовіщенське, Україна.</podcast:location>
 		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
+		<item>
+			<title>Державна зрада? Україна втратила не гроші. Час.</title>
+			<pubDate>Wed, 28 Oct 2026 13:12:00 +0200</pubDate>
+			<guid isPermaLink="false">teteva-s3e14</guid>
+			<itunes:image href="https://images.teteva.com/s3e14.jpg" />
+			<description><![CDATA[
+<p>На війні найцінніший ресурс — час. Його не можна закупити, повернути чи компенсувати після завершення бойових дій. Що відбувається, коли країна роками очікує зброю, від якої залежить її здатність протистояти противнику?</p>
+<p>Чому ударні дрони не можуть замінити тактичні балістичні ракети? Різниця не обмежується швидкістю польоту чи вартістю. Це різні види озброєння, призначені для різних військових завдань. І саме відсутність необхідної балістичної спроможності може визначати, які завдання українська армія здатна виконати.</p>
+<p>Окремо — про Fire Point, заяви її керівництва та рішення щодо розробки й виробництва балістичних ракет. Чи відповідають пріоритети компанії потребам військових? Хто відповідає за строки, державне фінансування та результати?</p>
+<p>Чи є в цій історії ознаки не просто управлінської неспроможності або корупції, а свідомого саботажу? І що потрібно встановити, перш ніж говорити про державну зраду?</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e14.mp3" length="14610384" type="audio/mpeg" />
+			<itunes:duration>00:10:09</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Балістика для України. Провал чи саботаж?]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Фау-2 створили без комп'ютерів. Що заважає Fire Point?</title>
