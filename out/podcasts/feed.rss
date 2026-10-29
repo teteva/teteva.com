@@ -9,7 +9,7 @@
 		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 		<link>https://teteva.com/</link>
 		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
-		<lastBuildDate>Wed, 28 Oct 2026 13:12:00 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 29 Oct 2026 13:23:00 +0200</lastBuildDate>
 		<language>uk</language>
 		<itunes:author>Teteva &amp; Тетева</itunes:author>
 		<itunes:explicit>true</itunes:explicit>
@@ -43,6 +43,27 @@
 
 		<podcast:location>Благовіщенське, Україна.</podcast:location>
 		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
+		<item>
+			<title>Путін і Меланія рятують Олешки. А хто створив катастрофу?</title>
+			<pubDate>Thu, 29 Oct 2026 13:23:00 +0200</pubDate>
+			<guid isPermaLink="false">teteva-s3e15</guid>
+			<itunes:image href="https://images.teteva.com/s3e15.jpg" />
+			<description><![CDATA[
+<p>Місяцями мешканці окупованих Олешків залишалися без належного постачання продовольства, ліків і можливості безпечно виїхати. Росія блокувала гуманітарний доступ. А тепер, за кілька днів до американських виборів, світові пропонують нову історію: Меланія Трамп домовилася про порятунок людей, а Москва сприяє гуманітарній операції.</p>
+<p>Хто відповідальний за катастрофу в Олешках? Чому Росія так довго не забезпечувала населення необхідним і не погоджувала гуманітарні коридори? І кому вигідно, щоб причиною трагедії в міжнародному медійному висвітленні стала абстрактна війна, а Росія отримала роль одного з рятівників?</p>
+<p>Окремо — про американські медіа, участь Меланії Трамп і появу журналістів Newsmax в Олешках напередодні виборів у США. Як гуманітарна місія може перетворитися на політичну рекламу та інструмент формування міжнародного сприйняття війни?</p>
+<p>А також про роль української влади, Андрія Єрмака та попередній досвід переговорів із Росією. Чому історія Стамбульських домовленостей 2022 року знову змушує ставити питання про українську переговорну позицію?</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e15.mp3" length="10613024" type="audio/mpeg" />
+			<itunes:duration>00:07:22</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Гуманітарна катастрофа в Олешках, Меланія Трамп та боротьба за роль рятівника]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Державна зрада? Україна втратила не гроші. Час.</title>
