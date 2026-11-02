@@ -9,7 +9,7 @@
 		<atom:link href="https://teteva.com/podcasts/feed.rss" rel="self" type="application/rss+xml" />
 		<link>https://teteva.com/</link>
 		<description>Експлікація — про все і ні про що. Про війну в Україні. І міжнародну обстановку.</description>
-		<lastBuildDate>Thu, 29 Oct 2026 13:23:00 +0200</lastBuildDate>
+		
 		<language>uk</language>
 		<itunes:author>Teteva &amp; Тетева</itunes:author>
 		<itunes:explicit>true</itunes:explicit>
@@ -43,6 +43,29 @@
 
 		<podcast:location>Благовіщенське, Україна.</podcast:location>
 		<podcast:guid>91e20070-77e8-50ad-823d-8d3f39267197</podcast:guid>
+
+		<lastBuildDate>Mon, 02 Nov 2026 14:50:00 +0200</lastBuildDate>
+
+		<item>
+			<title>Навіщо Трампу повертати Європу в залежність від Путіна?</title>
+			<pubDate>Mon, 02 Nov 2026 14:50:00 +0200</pubDate>
+			<guid isPermaLink="false">teteva-s3e17</guid>
+			<itunes:image href="https://images.teteva.com/s3e17.jpg" />
+			<description><![CDATA[
+<p>Американські переговорники Стів Віткофф і Джаред Кушнер обговорюють повернення російського газу в Європу через українську газотранспортну систему. І це тоді, коли Європейський Союз уже ухвалив рішення остаточно відмовитися від російського газу.</p>
+<p>Навіщо Вашингтону відновлювати залежність Європи від Кремля? Чи справді йдеться про дешеві енергоносії, транзитні доходи України та зацікавленість Росії в мирній угоді? Чи за цими поясненнями стоїть значно більша геополітична мета?</p>
+<p>Розглядаємо версію, за якою США використовують посилення Росії для стримування Європи. Китай уже став самостійним центром світової сили. А чи готовий Вашингтон допустити, щоб таким самим центром став Європейський Союз?</p>
+<p>Окремо — про залежність Європи від американських озброєнь, дефіцит ракет для української протиповітряної оборони та можливість використання американської військової допомоги як інструменту тиску на Україну. Чому повернення російського газу через Україну може бути частиною значно ширшої політичної конструкції?</p>
+]]></description>
+			<enclosure url="https://audio.teteva.com/s3e17.mp3" length="13621076" type="audio/mpeg" />
+			<itunes:duration>00:09:28</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:subtitle><![CDATA[Віткофф, Кушнер, російський газ і боротьба за незалежність Європи]]></itunes:subtitle>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>notalsoran</itunes:author>
+		</item>
 
 		<item>
 			<title>Путін і Меланія рятують Олешки. А хто створив катастрофу?</title>
